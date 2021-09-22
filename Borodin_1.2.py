@@ -3,12 +3,12 @@ import traceback
 
 def min_sum(arr):
     arr.sort()
-    sum = 0
-    print (arr)
+    summa = 0
+    ##print (arr)
     while len(arr) != 0:
-        sum += arr.pop(0) * arr.pop()
-        print (sum)
-    return sum
+        summa += arr.pop(0) * arr.pop()
+        ##print (summa)
+    return summa
 
 
 try:
