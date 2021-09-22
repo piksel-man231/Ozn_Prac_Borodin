@@ -8,8 +8,16 @@ import traceback
 
 
 def special_number(number):
-    
-    return True
+    num_string = str(number)
+    z = 1
+    sum = 0
+    for i in num_string:
+        sum = sum + pow(int(i), z)
+        z = z + 1
+    if sum == number:
+        return True
+    else:
+        return False
 
 
 # Тесты
