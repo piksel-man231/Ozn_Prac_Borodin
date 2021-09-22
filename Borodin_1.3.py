@@ -2,14 +2,14 @@ import traceback
 
 
 def riders(stations):
-    bac = 100
+    Horse_stamina = 100
     k = 1
     while len(stations)!=0:
-        if (bac - stations[0]) > 0:
-            bac -= stations.pop(0)
+        if (Horse_stamina - stations[0]) > 0:
+            Horse_stamina -= stations.pop(0)
         else:
             k=k+1
-            bac = 100
+            Horse_stamina = 100
     return k
 
 
