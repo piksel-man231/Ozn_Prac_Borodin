@@ -1,546 +1,358 @@
-Attitudes toward lesbian, gay, bisexual, and transgender (LGBT) people and their experiences in the Muslim world have been influenced by its religious, legal, social, political, and cultural history.
+Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.[30]
 
-The Quran narrates the story of the "people of Lut" destroyed by the wrath of God because the men engaged in lustful carnal acts between themselves.[1][2][3][4] Within the Quran, it never states that homosexuality is punishable by death,[5][6] and modern historians conclude that the Islamic prophet Muhammad never forbade homosexual relationships, although he shared contempt towards them alongside his contemporaries.[7] However, some hadith collections condemn homosexual and transgender acts,[1][8][9][10] prescribing the death penalty for both the active and receptive partners who have engaged in male homosexual intercourse.[5][11]
+Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.[31]
 
-There is little evidence of homosexual practice in Islamic societies for the first century and a half of the early history of Islam,[11] although male homosexual relationships were known[8] and ridiculed, but not sanctioned, in Arabia.[7] Homoerotic and pederastic themes were cultivated in poetry and other literary genres written in major languages of the Muslim world from the 8th century into the modern era.[7][11][12][13] The conceptions of homosexuality found in classical Islamic texts resemble the traditions of Graeco-Roman antiquity rather than the modern understanding of sexual orientation.[7][11][14]
+Guido van Rossum began working on Python in the late 1980s, as a successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32] Python 2.0 was released in 2000 and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.[33]
 
-Homosexual acts are forbidden in traditional Islamic jurisprudence and are liable to different punishments, including stoning and the death penalty,[5][11] depending on the situation and legal school. However, homosexual relationships were generally tolerated in pre-modern Islamic societies,[5][7][8][11][13] and historical records suggest that these laws were invoked infrequently, mainly in cases of rape or other "exceptionally blatant infringement on public morals".[11] Public attitudes toward homosexuality in the Muslim world underwent a marked negative change starting from the 19th century through the gradual spread of Islamic fundamentalist movements such as Salafism and Wahhabism,[15][16][17] and the influence of the sexual notions and restrictive norms prevalent in Europe at the time: a number of Muslim-majority countries have retained criminal penalties for homosexual acts enacted under European colonial rule.[18][19][20][21]
+Python consistently ranks as one of the most popular programming languages.[34][35][36][37]
 
-In recent times, extreme prejudice, discrimination, and violence against LGBT people persists, both socially and legally, in much of the Muslim world, exacerbated by increasingly conservative attitudes and the rise of Islamist movements.[20][22] In Afghanistan, Brunei, Iran, Mauritania, Nigeria, Saudi Arabia, parts of Somalia,[note 1] Sudan, United Arab Emirates, and Yemen, homosexual activity carries the death penalty or prison sentences.[23][24][25][26][27][28] In other countries, such as Algeria, Bangladesh, Chad,[29] Malaysia, Maldives, Pakistan, Qatar, Somalia, and Syria, it is illegal, and penalties may be imposed.[30][31][32][33][34][35] Same-sex sexual intercourse is legal in Albania, Azerbaijan, Bahrain, Bosnia and Herzegovina, Burkina Faso, Djibouti, Guinea-Bissau, Iraq, Jordan, Kazakhstan, Kosovo, Kyrgyzstan, Lebanon,[note 2] Mali, Niger, Tajikistan, Turkey, most of Indonesia[note 3], the West Bank (State of Palestine), and Northern Cyprus.[38][39][40][41] Homosexual relations between females are legal in Kuwait, Turkmenistan, and Uzbekistan, but homosexual acts between males are illegal.[38][42][43][44]
 
-Most Muslim-majority countries and the Organisation of Islamic Cooperation (OIC) have opposed moves to advance LGBT rights at the United Nations, in the General Assembly or the UNHRC. In 2008, 57 UN member nations, most of them having a Muslim majority, cosponsored a statement opposing LGBT rights at the UN General Assembly.[45] In May 2016, a group of 51 Muslim majority states blocked 11 gay and transgender organizations from attending the 2016 High Level Meeting on Ending AIDS.[46][47][48][49] However, Albania and Sierra Leone have signed a UN Declaration supporting LGBT rights.[50][51] LGBT anti-discrimination laws have been enacted in Albania, Kosovo, and Northern Cyprus.[52] There are also several organizations for LGBT Muslims which support LGBT rights, and others which attempt conversion therapy.[53]
 Contents
-
-    1 Scripture and Islamic jurisprudence
-        1.1 In the Quran
-            1.1.1 Messengers to Lot
-            1.1.2 Zina verse
-            1.1.3 Cupbearers in paradise
-        1.2 In the hadith
-        1.3 Transgender
-        1.4 Traditional Islamic law
-            1.4.1 Practicality
-        1.5 Modern interpretation
-    2 History of homosexuality in Islamic societies
-        2.1 Pre-modern era
-        2.2 Modern era
-        2.3 Pederasty
-    3 Modern laws in Muslim-majority countries
-        3.1 Criminalization
-            3.1.1 Death penalty
-            3.1.2 Minor penalty
-        3.2 Legalization
-            3.2.1 Same-sex marriage
-            3.2.2 Transgender
-    4 Public opinion among Muslims
-        4.1 Opinion polls
-        4.2 Muslim leaders
-            4.2.1 Sunni
-            4.2.2 Shia
-    5 LGBT-related movements within Islam
-        5.1 Conservative movements
-            5.1.1 Ex-gay organizations
-            5.1.2 Chechnya anti-gay purge
-        5.2 Attempts against LGBT people
-        5.3 Liberal movements
-            5.3.1 Defunct movements
-            5.3.2 Active movements
-    6 Muslim LGBT rights activists
-    7 In popular culture
-        7.1 Books
-            7.1.1 Islam and Homosexuality
-            7.1.2 Progressive Muslims: On Justice, Gender, and Pluralism
-            7.1.3 Sexual Ethics and Islam
-            7.1.4 Miscellaneous
-        7.2 Films and media
-        7.3 Terminology
-    8 See also
-    9 References
-        9.1 Notes
-        9.2 Citations
-        9.3 Sources
-    10 Further reading
-
-Scripture and Islamic jurisprudence
-In the Quran
-Messengers to Lot
-Lut fleeing the city with his daughters; his wife is killed by a rock. Persian miniature (16th century), National Library of France, Paris.
-Main articles: Islamic view of Lot and Liwat
-
-The Quran contains several allusions to homosexual activity, which has prompted considerable exegetical and legal commentary over the centuries.[1] The subject is most clearly addressed in the story of Sodom and Gomorrah (seven verses)[54] after the men of the city demand to have sex with the (seemingly male) messengers sent by God to the prophet Lot (or Lut).[1][2][3][4] The Quranic narrative largely conforms to that found in Genesis.[1] In one passage the Quran says that the men "solicited his guests of him" (Quran 54:37),[55] using an expression that parallels phrasing used to describe the attempted seduction of Joseph, and in multiple passages they are accused of "coming with lust" to men instead of women (or their wives).[1] The Quran terms this lewdness or fahisha (Arabic: فاحشة‎, romanized: fāḥiša) unprecedented in the history of the world:
-
-    "And (We sent) Lot when he said to his people: What! do you commit an indecency which any one in the world has not done before you? Most surely you come to males in lust besides females; nay you are an extravagant people. And the answer of his people was no other than that they said: Turn them out of your town, surely they are a people who seek to purify (themselves). So We delivered him and his followers, except his wife; she was of those who remained behind. And We rained upon them a rain; consider then what was the end of the guilty."[7:80–84 (Translated by Shakir)]
-
-The destruction of the "people of Lut" is thought to be explicitly associated with their sexual practices.[54] Later exegetical literature built on these verses as writers attempted to give their own views as to what went on; and there was general agreement among exegetes that the "lewdness" alluded to by the Quranic passages was attempted sodomy (specifically anal intercourse) between men.[1] Some Muslim academics disagree with this interpretation, arguing that the "people of Lut" were destroyed not because of participation in homosexuality, but because of misdeeds which included refusing to worship one God, disregarding and disrespecting the authority of the Prophets and messengers, and attempting to rape the travelers, despite the fact the travelers were under Lut's protection and hospitality.[56][57]: 194–195 
-
-The sins of the "people of Lut" (Arabic: لوط‎) subsequently became proverbial and the Arabic words for the act of anal sex between men such as liwat (Arabic: لواط‎, romanized: liwāṭ) and for a person who performs such acts (Arabic: لوطي‎, romanized: lūṭi) both derive from his name, although Lut was not the one demanding sex.[58]
-
-Some scholars (both Western and Islamic) argue that in the course of the Quranic Lot story, homosexuality in the modern sense is not addressed, but that the destruction of the "people of Lut" was a result of breaking the ancient hospitality law and sexual violence, in this case the attempted rape of men.[59][60][61][62][63]
-Zina verse
-
-Only one passage in the Quran prescribes a strictly legal position. It is not restricted to homosexual behaviour, however, and deals more generally with zina (illicit sexual intercourse):[54]
-
-    "And as for those who are guilty of an indecency from among your women, call to witnesses against them four (witnesses) from among you; then if they bear witness confine them to the houses until death takes them away or Allah opens some way for them (15). And as for the two who are guilty of indecency from among you, give them both a punishment; then if they repent and amend, turn aside from them; surely Allah is oft-returning (to mercy), the Merciful. (16)"[4:15–16 (Translated by Shakir)]
-
-In the exegetical Islamic literature, this verse has provided the basis for the view that Muhammad took a lenient approach towards male homosexual practices.[54] The Orientalist scholar Pinhas Ben Nahum has argued that "it is obvious that the Prophet viewed the vice with philosophic indifference. Not only is the punishment not indicated—it was probably some public reproach or insult of a slight nature—but mere penitence sufficed to escape the punishment".[54] Most exegetes hold that these verses refer to illicit heterosexual relationships, although a minority view attributed to the Mu'tazilite scholar Abu Muslim al-Isfahani interpreted them as referring to homosexual relations. This view was widely rejected by medieval scholars, but has found some acceptance in modern times.[1]
-Cupbearers in paradise
-
-Some Quranic verses describing the paradise refer to "immortal boys" (56:17, 76:19) or "young men" (52:24) who serve wine to the blessed. Although the tafsir literature does not interpret this as a homoerotic allusion, the connection was made in other literary genres, mostly humorously.[1] For example, the Abbasid-era poet Abu Nuwas wrote:[64]
-
-    A beautiful lad came carrying the wine
-    With smooth hands and fingers dyed with henna
-    And with long hair of golden curls around his cheeks ...
-    I have a lad who is like the beautiful lads of paradise
-
-    And his eyes are big and beautiful
-
-Jurists of the Hanafi school took up the question seriously, considering, but ultimately rejecting the suggestion that homosexual pleasures were, like wine, forbidden in this world but enjoyed in the afterlife.[1][11]
-In the hadith
-
-The hadith (sayings and actions attributed to Muhammad) show that homosexual behaviour was not unknown in seventh-century Arabia.[7][8] However, given that the Quran did not specify the punishment of homosexual practices, Islamic jurists increasingly turned to several "more explicit"[1][9] hadiths in an attempt to find guidance on appropriate punishment.[8][9]
-
-    From Abu Musa al-Ash'ari, the Prophet states that: "If a woman comes upon a woman, they are both adulteresses, if a man comes upon a man, then they are both adulterers."
-    — Al-Tabarani in al-Mu‘jam al-Awat: 4157, Al-Bayhaqi, Su‘ab al-Iman: 5075
-
-While there are no reports relating to homosexuality in the best known and authentic hadith collections of Sahih al-Bukhari and Sahih Muslim, other canonical collections record a number of condemnations of the "act of the people of Lut" (male-to-male anal intercourse).[11] For example, Abu 'Isa Muhammad ibn 'Isa at-Tirmidhi (compiling the Sunan al-Tirmidhi around 884) wrote that Muhammad had indeed prescribed the death penalty for both the active and passive partners:
-
-    Narrated by Abdullah ibn Abbas: "The Prophet said: 'If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done'."
-    — Sunan Abu Dawood, 38:4447, Al-Tirmidhi, 17:1456, Ibn Maajah, 20:2561
-
-    Narrated Abdullah ibn Abbas: "If a man who is not married is seized committing sodomy he will be stoned to death."
-    — Sunan Abu Dawood, 38:4448
-
-Ibn al-Jawzi (1114–1200), writing in the 12th century, claimed that Muhammad had cursed "sodomites" in several hadith, and had recommended the death penalty for both the active and passive partners in homosexual acts.[54]
-
-    It was narrated that Ibn Abbas said: "The Prophet said: '... cursed is the one who does the action of the people of Lot'."
-    — Musnad Ahmad:1878
-
-    Ahmad narrated from Ibn Abbas that the Prophet of Allah said: 'May Allah curse the one who does the action of the people of Lot, may Allah curse the one who does the action of the people of Lot', three times."
-    — Musnad Ahmad: 2915
-
-Al-Nuwayri (1272–1332), writing in the 13th century, reported in his Nihaya that Muhammad is "alleged to have said what he feared most for his community were the practices of the people of Lot (he seems to have expressed the same idea in regard to wine and female seduction)."[8]
-
-    It was narrated that Jabir: "The Prophet said: 'There is nothing I fear for my followers more than the deed of the people of Lot.'"
-    — Al-Tirmidhi: 1457, Ibn Maajah: 2563
-
-Other hadiths seem to permit homoerotic feelings as long as they are not translated into action.[7][65] In one hadith attributed to Muhammad himself, which exists in multiple variants, the Islamic prophet acknowledged homoerotic temptation towards young boys and warned his Companions against it: "Do not gaze at the beardless youths, for verily they have eyes more tempting than the houris"[54][66] or "... for verily they resemble the houris".[54][67] These beardless youths are also described as wearing sumptuous robes and having perfumed hair.[54][68] Consequently, Islamic religious leaders, skeptical of Muslim men's capacity of self-control over their sexual urges, have forbidden looking and yearning both at males and females.[7]
-
-In addition, there is a number of "purported (but mutually inconsistent) reports" (athar) of punishments of sodomy ordered by some of the early caliphs.[11][54] Abu Bakr apparently recommended toppling a wall on the culprit, or else burning him alive,[54] while Ali ibn Abi Talib is said to have ordered death by stoning for one sodomite and had another thrown head-first from the top of the highest building in the town; according to Ibn Abbas, the latter punishment must be followed by stoning.[8][54]
-
-There are, however, fewer hadith mentioning homosexual behaviour in women;[69][70] but punishment (if any) for lesbianism was not clarified.
-Transgender
-Main article: Mukhannathun
-
-In Islam, the plural term mukhannathun (singular: mukhannath) is used to describe gender-variant people, and it usually refers to effeminate males.[10][22][71] According to the Iranian scholar Mehrdad Alipour, "in the premodern period, Muslim societies were aware of five manifestations of gender ambiguity: This can be seen through figures such as the khasi (eunuch), the hijra, the mukhannath, the mamsuh and the khuntha (hermaphrodite/intersex)."[71] Western scholars Aisya Aymanee M. Zaharin and Maria Pallotta-Chiarolli give the following explanation of the meaning of the term mukhannath and its derivate Arabic forms in the hadith literature:
-
-    Various academics such as Alipour (2017) and Rowson (1991) point to references in the Hadith to the existence of mukhannath: a man who carries femininity in his movements, in his appearance, and in the softness of his voice. The Arabic term for a trans woman is mukhannith as they want to change their biological sex characters, while mukhannath presumably do not/have not. The mukhannath or effeminate man is obviously male, but naturally behaves like a female, unlike the khuntha, an intersex person, who could be either male or female. Ironically, while there is no obvious mention of mukhannath, mukhannith, or khuntha in the Qur’ān, this holy book clearly recognizes that there are some people, who are neither male nor female, or are in between, and/or could also be “non-procreative” [عَقِيم] (Surah 42 Ash-Shuraa, verse 49-50).[22]
-
-Moreover, within Islam, there is a tradition of the elaboration and refinement of extended religious doctrines through scholarship. This doctrine contains a passage by the scholar and hadith collector An-Nawawi:
-
-    A mukhannath is the one ("male") who carries in his movements, in his appearance and in his language the characteristics of a woman. There are two types; the first is the one in whom these characteristics are innate, he did not put them on by himself, and therein is no guilt, no blame and no shame, as long as he does not perform any (illicit) act or exploit it for money (prostitution etc.). The second type acts like a woman out of immoral purposes and he is the sinner and blameworthy.[10]
-
-The hadith collection of Bukhari (compiled in the 9th century from earlier oral traditions) includes a report regarding mukhannathun, effeminate men who were granted access to secluded women's quarters and engaged in other non-normative gender behavior:[10] This hadiths attributed to Muhammad's wives, a mukhannath in question expressed his appreciation of a woman's body and described it for the benefit of another man. According to one hadith, this incident was prompted by a mukhannath servant of Muhammad's wife Umm Salama commenting upon the body of a woman[72] and following that, Muhammad cursed the mukhannathun and their female equivalents, mutarajjilat and ordered his followers to remove them from their homes.[73]
-
-    Aisha says: Amukhannath used to enter upon the wives of Prophet. They (the people) counted him among those who were free of physical needs. One day the Prophet entered upon us when he was with one of his wives, and was describing the qualities of a woman, saying: When she comes forward, she comes forward with four (folds of her stomach), and when she goes backward, she goes backward with eight (folds of her stomach). The Prophet said: Do I not see that this one knows what here lies. Then they (the wives) observed veil from him.[74]
-
-    Narrated by Abdullah ibn Abbas: The Prophet cursed effeminate men; those men who are in the similitude (assume the manners of women) and those women who assume the manners of men, and he said, "Turn them out of your houses." The Prophet turned out such-and-such man, and 'Umar turned out such-and-such woman.
-    — Sahih al-Bukhari, 7:72:774
-
-Early Islamic literature rarely comments upon the habits of the mukhannathun. It seems there may have been some variance in how "effeminate" they were, though there are indications that some adopted aspects of feminine dress or at least ornamentation. One hadith states that a Muslim mukhannath who had dyed his hands and feet with henna (traditionally a feminine activity) was banished from Medina, but not killed for his behavior.[75]
-
-    A mukhannath who had dyed his hands and feet with henna was brought to the Prophet. He asked: What is the matter with this man? He was told: Apostle of Allah! he affects women's get-up. So he ordered regarding him and he was banished to an-Naqi'. The people said: Apostle of Allah! should we not kill him? He said: I have been prohibited from killing people who pray. AbuUsamah said: Naqi' is a region near Medina and not a Baqi.[76]
-
-Other hadiths also mention the punishment of banishment, both in connection with Umm Salama's servant and a man who worked as a musician. Muhammad described the musician as a mukhannath and threatened to banish him if he did not end his unacceptable career.[10]
-
-According to Everett K. Rowson, professor of Middle Eastern and Islamic Studies at New York University, none of the sources state that Muhammad banished more than two mukhannathun, and it is not clear to what extent the action was taken because of their breaking of gender rules in itself or because of the "perceived damage to social institutions from their activities as matchmakers and their corresponding access to women".[10]
-Traditional Islamic law
-
-The paucity of concrete prescriptions to be derived from hadith and the contradictory nature of information about the actions of early authorities resulted in lack of agreement among classical jurists as to how homosexual activity should be treated.[11][13] Classical Islamic jurists did not deal with homosexuality as a sexual orientation, since the latter concept is modern and has no match in traditional law, which dealt with it under the technical terms of liwat and zina.[77]
-
-Broadly, traditional Islamic law took the view that homosexual activity could not be legally sanctioned because it takes place outside religiously-recognised marriages.[78] All major schools of law consider liwat (anal sex) as a punishable offence.[79] Most legal schools treat homosexual intercourse with penetration similarly to unlawful heterosexual intercourse under the rubric of zina, but there are differences of opinion with respect to methods of punishment.[80] Some legal schools "prescribed capital punishment for sodomy, but others opted only for a relatively mild discretionary punishment."[13] The Hanbalites are the most severe among Sunni schools, insisting on capital punishment for anal sex in all cases, while the other schools generally restrict punishment to flagellation with or without banishment, unless the culprit is muhsan (Muslim free married adult), and Hanafis often suggest no physical punishment at all, leaving the choice to the judge's discretion.[8][80] The founder of the Hanafi school Abu Hanifa refused to recognize the analogy between sodomy and zina, although his two principal students disagreed with him on this point.[11] The Hanafi scholar Abu Bakr Al-Jassas (d. 981 AD/370 AH) argued that the two hadiths on killing homosexuals "are not reliable by any means and no legal punishment can be prescribed based on them".[81] Where capital punishment is prescribed and a particular method is recommended, the methods range from stoning (Hanbali, Maliki), to the sword (some Hanbalites and Shafi'ites), or leaving it to the court to choose between several methods, including throwing the culprit off a high building (Shi'ite).[80]
-
-For unclear reasons, the treatment of homosexuality in Twelver Shia jurisprudence is generally harsher than in Sunni fiqh, while Zaydi and Isma'ili Shia jurists took positions similar to the Sunnis.[11] Where flogging is prescribed, there is a tendency for indulgence and some recommend that the prescribed penalty should not be applied in full, with Ibn Hazm reducing the number of strokes to 10.[8] There was debate as to whether the active and passive partners in anal sex should be punished equally.[65] Beyond penetrative anal sex, there was "general agreement" that "other homosexual acts (including any between females) were lesser offenses, subject only to discretionary punishment."[13] Some jurists viewed sexual intercourse as possible only for an individual who possesses a phallus;[82] hence those definitions of sexual intercourse that rely on the entry of as little of the corona of the phallus into a partner's orifice.[82] Since women do not possess a phallus and cannot have intercourse with one another, they are, in this interpretation, physically incapable of committing zinā.[82]
-Practicality
-
-Since a hadd punishment for zina requires testimony from four witnesses to the actual act of penetration or a confession from the accused repeated four times, the legal criteria for the prescribed harsh punishments of homosexual acts were very difficult to fulfill.[8][65] The debates of classical jurists are "to a large extent theoretical, since homosexual relations have always been tolerated" in pre-modern Islamic societies.[8] While it is difficult to ascertain to what extent the legal sanctions were enforced in different times and places, historical record suggests that the laws were invoked mainly in cases of rape or other "exceptionally blatant infringement on public morals". Documented instances of prosecution for homosexual acts are rare, and those which followed legal procedure prescribed by Islamic law are even rarer.[11]
-Modern interpretation
-
-In Kecia Ali's book, she cites that "contemporary scholars disagree sharply about the Qur'anic perspective on same-sex intimacy." One scholar represents the conventional perspective by arguing that the Qur'an "is very explicit in its condemnation of homosexuality leaving scarcely any loophole for a theological accommodation of homosexuality in Islam." Another scholar argues that "the Qur'an does not address homosexuality or homosexuals explicitly." Overall, Ali says that "there is no one Muslim perspective on anything."[83]
-
-Many Muslim scholars have followed a "don't ask, don't tell" policy in regards to homosexuality in Islam, by treating the subject with passivity.[84]
-
-Mohamed El-Moctar El-Shinqiti, director of the Islamic Center of South Plains in Texas, has argued that "[even though] homosexuality is a grievous sin...[a] no legal punishment is stated in the Qur'an for homosexuality...[b] it is not reported that Prophet Muhammad has punished somebody for committing homosexuality...[c] there is no authentic hadith reported from the Prophet prescribing a punishment for the homosexuals..." Classical hadith scholars such as Al-Bukhari, Yahya ibn Ma'in, Al-Nasa'i, Ibn Hazm, Al-Tirmidhi, and others have impugned the authenticity of hadith reporting these statements.[85]
-
-Egyptian Islamist journalist Muhammad Jalal Kishk also found no punishment for homosexual acts prescribed in the Quran, regarding the hadith that mentioned it as poorly attested. He did not approve of such acts, but believed that Muslims who abstained from sodomy would be rewarded by sex with youthful boys in paradise.[86]
-
-Faisal Kutty, a professor of Islamic law at Indiana-based Valparaiso University Law School and Toronto-based Osgoode Hall Law School, commented on the contemporary same-sex marriage debate in a 27 March 2014, essay in the Huffington Post.[87] He acknowledged that while Islamic law iterations prohibits pre- and extra-marital as well as same-sex sexual activity, it does not attempt to "regulate feelings, emotions and urges, but only its translation into action that authorities had declared unlawful". Kutty, who teaches comparative law and legal reasoning, also wrote that many Islamic scholars[88] have "even argued that homosexual tendencies themselves were not haram [prohibited] but had to be suppressed for the public good". He claimed that this may not be "what the LGBTQ community wants to hear", but that, "it reveals that even classical Islamic jurists struggled with this issue and had a more sophisticated attitude than many contemporary Muslims". Kutty, who in the past wrote in support of allowing Islamic principles in dispute resolution, also noted that "most Muslims have no problem extending full human rights to those—even Muslims—who live together 'in sin'". He argued that it therefore seems hypocritical to deny fundamental rights to same-sex couples. Moreover, he concurred with Islamic legal scholar Mohamed Fadel[89] in arguing that this is not about changing Islamic marriage (nikah), but about making "sure that all citizens have access to the same kinds of public benefits".
-
-Some modern day Muslim scholars, such as Scott Siraj al-Haqq Kugle, argue for a different interpretation of the Lot narrative focusing not on the sexual act but on the infidelity of the tribe and their rejection of Lot's Prophethood. According to Kugle, "where the Qur'an treats same-sex acts, it condemns them only so far as they are exploitive or violent." More generally, Kugle notes that the Quran refers to four different levels of personality. One level is "genetic inheritance." The Qur'an refers to this level as one's "physical stamp" that "determines one's temperamental nature" including one's sexuality. On the basis of this reading of the Qur'an, Kugle asserts that homosexuality is "caused by divine will," so "homosexuals have no rational choice in their internal disposition to be attracted to same-sex mates."[90]: 42–46  Kugle argues that if the classical commentators had seen "sexual orientation as an integral aspect of human personality," they would have read the narrative of Lot and his tribe "as addressing male rape of men in particular" and not as "addressing homosexuality in general."[90]: 54  Kugle furthermore reads the Qur'an as holding "a positive assessment of diversity." Under this reading, Islam can be described as "a religion that positively assesses diversity in creation and in human societies," allowing gay and lesbian Muslims to view homosexuality as representing the "natural diversity in sexuality in human societies."[57] A critique of Kugle's approach, interpretations and conclusions was published in 2016 by Mobeen Vaid.[91]
-
-In a 2012 book, Aisha Geissinger[92] writes that there are "apparently irreconcilable Muslim standpoints on same-sex desires and acts," all of which claim "interpretative authenticity." One of these standpoints results from "queer-friendly" interpretations of the Lot story and the Quran. The Lot story is interpreted as condemning "rape and inhospitality rather than today's consensual same-sex relationships."[93]
-
-In their book Islamic Law and Muslim Same-Sex Unions, Junaid Jahangir and Hussein Abdullatif argue that interpretations which view the Quranic narrative of the people of Lot and the derived classical notion of liwat as applying to same-sex relationships reflect the sociocultural norms and medical knowledge of societies that produced those interpretations. They further argue that the notion of liwat is compatible with the Quranic narrative, but not with the contemporary understanding of same-sex relationships based on love and shared responsibilities.[94]
-
-Abdessamad Dialmy in his 2010 article, "Sexuality and Islam," addressed "sexual norms defined by the sacred texts (Koran and Sunna)." He wrote that "sexual standards in Islam are paradoxical." The sacred texts "allow and actually are an enticement to the exercise of sexuality." However, they also "discriminate . . . between heterosexuality and homosexuality." Islam's paradoxical standards result in "the current back and forth swing of sexual practices between repression and openness." Dialmy sees a solution to this back and forth swing by a "reinterpretation of repressive holy texts."[17][95]
-History of homosexuality in Islamic societies
-
-Societies in Islam have recognized "both erotic attraction and sexual behavior between members of the same sex". However, their attitudes about them have often been contradictory: "severe religious and legal sanctions" against homosexual behavior and at the same time "celebratory expressions" of erotic attraction.[13] Homoeroticism was idealized in the form of poetry or artistic declarations of love from one man to another.[11] Accordingly, the Arabic language had an appreciable vocabulary of homoerotic terms, with dozens of words just to describe types of male prostitutes.[96] Schmitt (1992) identifies some twenty words in Arabic, Persian, and Turkish to identify those who are penetrated.[97] Other related Arabic words includes Mukhannathun, ma'bûn, halaqī, baghghā.[98]
-Pre-modern era
-
-There is little evidence of homosexual practice in Islamic societies for the first century and a half of the Islamic era.[11] Homoerotic poetry appears suddenly at the end of the 8th century CE, particularly in Baghdad in the work of Abu Nuwas (756–814), who became a master of all the contemporary genres of Arabic poetry.[11][99] The famous author Jahiz tried to explain the abrupt change in attitudes toward homosexuality after the Abbasid Revolution by the arrival of the Abbasid army from Khurasan, who are said to have consoled themselves with male pages when they were forbidden to take their wives with them.[11] The increased prosperity following the early conquests was accompanied by a "corruption of morals" in the two holy cities of Mecca and Medina, and it can be inferred that homosexual practice became more widespread during this time as a result of acculturation to foreign customs, such as the music and dance practiced by mukhannathun, who were mostly foreign in origin.[8] The Abbasid ruler Al-Amin (809–813) was said to have required slave women to be dressed in masculine clothing so he could be persuaded to have sex with them, and a broader fashion for ghulamiyyat (boy-like girls) is reflected in literature of the period.[8] The same was said of Andalusian caliph al-Hakam II (915–976).
-
-The conceptions of homosexuality found in classical Islamic texts resemble the traditions of classical Greece and those of ancient Rome, rather than the modern understanding of sexual orientation.[11][14] It was expected that many mature men would be sexually attracted to both women and adolescent boys (with different views about the appropriate age range for the latter), and such men were expected to wish to play only an active role in homosexual intercourse once they reached adulthood.[11][14] However, any confident assessment of the actual incidence of homosexual behavior remains elusive.[11] Preference for homosexual over heterosexual relations was regarded as a matter of personal taste rather than a marker of homosexual identity in a modern sense.[11][14] While playing an active role in homosexual relations carried no social stigma beyond that of licentious behavior, seeking to play a passive role was considered both unnatural and shameful for a mature man.[11][14] Following Greek precedents, the Islamic medical tradition regarded as pathological only this latter case, and showed no concern for other forms of homosexual behavior.[11]
-
-Everett K. Rowson, professor of Middle Eastern and Islamic Studies at New York University remarks that, from a Western point of view, the conception of homosexual love in pre-modern Muslim societies cannot be considered as a relationship of reciprocal affection and mutual consent, but rather a "one-sided and asymmetrical affair" which involved older, adult men having sexual intercourse with younger, adolescent boys or children;[11][100] citing various poems as examples of this kind of relationships from Persian literature, Rowson states:[100]
-
-    In Persian love lyrics, however, one can hardly find the kind of homosexual relationship that is understood in the modern West; love is a one-sided and asymmetrical affair. As a rule, it is between an adult male and a boy or youth. Therefore, it should be characterized more properly as pedophilia, and its physical aspect as pederasty, rather than described under the more nebulous concept of homosexual love. In a number of poems the beloved is actually called kudak or ṭefl, i.e., a child, a young lad, or a minor.[100]
-
-Mahmud of Ghazni (in red robe), shaking hands with a sheikh, with his companion Malik Ayaz standing behind him (1515)
-
-During the early period, growth of a beard was considered to be the conventional age when an adolescent lost his homoerotic appeal, as evidenced by poetic protestations that the author still found his lover beautiful despite the growing beard.[100] During later periods, the age of the stereotypical beloved became more ambiguous, and this prototype was often represented in Persian poetry by Turkic slave-soldiers.[11][100] This trend is illustrated by the story of Mahmud of Ghazni (971–1030), the ruler of the Ghaznavid Empire, and his cupbearer Malik Ayaz.[11] Their relationship started when Malik was a slave boy, "At the time of the coins’ minting, Mahmud of Ghazni was in a passionate romantic relationship with his male slave Malik Ayaz, and had exalted him to various positions of power across the Ghazanid Empire. While the story of their love affair had been censored until recently — the result of Western colonialism and changing attitudes towards homosexuality in the Middle East — Jasmine explains how Ghazni's subjects saw their relationship as a higher form of love."[101]
-
-Other famous examples of homosexuality include the Aghlabid Emir Ibrahim II of Ifriqiya (ruled 875–902), who was said to have been surrounded by some sixty catamites, yet whom he was said to have treated in a most horrific manner. Caliph al-Mutasim in the 9th century and some of his successors were accused of homosexuality. The Christian martyr Pelagius of Córdoba was executed by Andalusian ruler Abd al-Rahman III because the boy refused his advances.[8]
-
-The 14th-century Iranian poet Obeid Zakani, in his scores of satirical stories and poems, has ridiculed the contradiction between the strict prohibitions of homosexuality on the one hand and its common practice on the other. Following is just an example from his Ressaleh Delgosha: “Two old men, who used to exchange sex since their very childhood, were making love on the top of a mosque’s minaret in the holy city of Qom. When both finished their turns, one told the other: “shameless practices have ruined our city.” The other man nodded and said, “You and I are the city’s blessed seniors, what then do you expect from others?”[102]
-
-Mehmed the Conqueror, the Ottoman sultan living in the 15th century, European sources say "who was known to have ambivalent sexual tastes, sent a eunuch to the house of Notaras, demanding that he supply his good-looking fourteen-year-old son for the Sultan's pleasure. When he refused, the Sultan instantly ordered the decapitation of Notaras, together with that of his son and his son-in-law; and their three heads … were placed on the banqueting table before him".[103] Another youth Mehmed found attractive, and who was presumably more accommodating, was Radu III the Fair, the brother of the famous Vlad the Impaler, "Radu, a hostage in Istanbul whose good looks had caught the Sultan's fancy, and who was thus singled out to serve as one of his most favored pages." After the defeat of Vlad, Mehmed placed Radu on the throne of Wallachia as a vassal ruler. However, Turkish sources deny these stories.[104]
-
-According to the Encyclopedia of Islam and the Muslim World:
-
-    Whatever the legal strictures on sexual activity, the positive expression of male homoerotic sentiment in literature was accepted, and assiduously cultivated, from the late eighth century until modern times. First in Arabic, but later also in Persian, Turkish and Urdu, love poetry by men about boys more than competed with that about women, it overwhelmed it. Anecdotal literature reinforces this impression of general societal acceptance of the public celebration of male-male love (which hostile Western caricatures of Islamic societies in medieval and early modern times simply exaggerate).[105]
-
-Shah Abbas of Iran with a page (1627), Persian miniature by Muhammad Qasim in the Louvre Museum;[106] European travellers who had visited Iran during the reign of Shah Abbas have spoken of his strong desire for charming young pages and cup-bearers.[106]
-
-European travellers remarked on the taste that Shah Abbas of Iran (1588-1629) had for wine and festivities, but also for attractive pages and cup-bearers.[106] A painting by Riza Abbasi with homo-erotic qualities shows the ruler enjoying such delights.[107]
-
-"Homosexuality was a key symbolic issue throughout the Middle Ages in [Islamic] Iberia. As was customary everywhere until the nineteenth century, homosexuality was not viewed as a congenital disposition or 'identity'; the focus was on nonprocreative sexual practices, of which sodomy was the most controversial." For example, in "al-Andalus homosexual pleasures were much indulged by the intellectual and political elite. Evidence includes the behavior of rulers . . . who kept male harems."[108]: 398  Although early Islamic writings such as the Quran expressed a mildly negative attitude towards homosexuality, laypersons usually apprehended the idea with indifference, if not admiration. Few literary works displayed hostility towards non-heterosexuality, apart from partisan statements and debates about types of love (which also occurred in heterosexual contexts).[109] Khaled el-Rouayheb (2014) maintain that "much if not most of the extant love poetry of the period [16th to 18th century] is pederastic in tone, portraying an adult male poet's passionate love for a teenage boy".[110]
-
-El-Rouayheb suggests that even though religious scholars considered sodomy as an abhorrent sin, most of them did not genuinely believe that it was illicit to merely fall in love with a boy or expressing this love via poetry.[111] In the secular society however, a male's desire to penetrate a desirable youth was seen as understandable, even if not lawful.[112] On the other hand, men adopting the passive role were more subjected to stigma. The medical term ubnah qualified the pathological desire of a male to exclusively be on the receiving end of anal intercourse. Physician that theorized on ubnah includes Rhazes, who thought that it was correlated with small genitals and that a treatment was possible provided that the subject was deemed to be not too effeminate and the behavior not "prolonged".[113] Dawud al-Antaki advanced that it could have been caused by an acidic substance embedded in the veins of the anus, causing itchiness and thus the need to seek relief.[114]
-
-In mystic writings of the medieval era, such as Sufi texts, it is "unclear whether the beloved being addressed is a teenage boy or God." European chroniclers censured "the indulgent attitudes to gay sex in the Caliphs' courts."[115] Mustafa Akyol writes that "The Ottoman sultans, arguably, were social liberals compared with the contemporary Islamists of Turkey, let alone the Arab World."[116]
-Modern era
-Ottoman Turkish manuscript from 1773
-
-The 18th and 19th centuries saw the rise of Islamic fundamentalism such as Wahhabism, which came to call for stricter adherence to the Hadith.[15][16][17] In 1744, Muhammad bin Saud, the tribal ruler of the town of Diriyah, endorsed ibn Abd al-Wahhab’s mission and the two swore an oath to establish together a state run according to true Islamic principles. For the next seventy years, until the dismantlement of the first state in 1818, the Wahhabis dominated from Damascus to Baghdad. Homosexuality, which had been largely tolerated in the Ottoman Empire, also became criminalized, and those found guilty were thrown to their deaths from the top of the minarets.[15]
-
-Homosexuality in the Ottoman Empire was decriminalized in 1858, as part of wider reforms during the Tanzimat.[117][118] However, authors Lapidus and Salaymeh write that before the 19th century Ottoman society had been open and welcoming to homosexuals and that by the 1850s via European influence they began censoring homosexuality in their society.[21] In Iran, several hundred political opponents were executed in the aftermath of the 1979 Islamic Revolution and justified it by accusing them of homosexuality, and homosexual intercourse is declared a capital offense in Iran's Islamic Penal Code, enacted in 1991. Though the grounds for execution in Iran are difficult to track, there is evidence that several people were hanged for homosexual behavior in 2005-2006 and in 2016, mostly in cases of dubious charges of rape.[119][20] In some countries like Iran and Iraq the dominant discourse is that Western imperialism has spread homosexuality.[16] In Egypt, though homosexuality is not explicitly criminalized, it has been widely prosecuted under vaguely formulated "morality" laws, and under the current rule of Abdel Fattah el-Sisi arrests of LGBT individuals have risen fivefold, apparently reflecting an effort to appeal to conservatives.[20] In Uzbekistan, an anti-sodomy law, passed after World War II with the goal of increasing the birth rate, was invoked in 2004 against a gay rights activist, who was imprisoned and subjected to extreme abuse.[19] In Iraq, where homosexuality is legal, the breakdown of law and order following the Second Gulf War allowed Islamist militias and vigilantes to act on their prejudice against gays, with ISIS gaining particular notoritety for the gruesome acts of anti-LGBT violence committed under its rule of parts of Syria and Iraq.[20] Scott Siraj al-Haqq Kugle has argued that, while "Muslims commemorate the early days of Islam when they were oppressed as a marginalized few," many of them now forget their history and fail to protect "Muslims who are gay, transgender and lesbian."[120]
-
-According to Georg Klauda, in the 19th and early 20th century, homosexual sexual contact was viewed as relatively commonplace in parts of the Middle East, owing in part to widespread sex segregation, which made heterosexual encounters outside marriage more difficult.[121] Klauda states that "Countless writers and artists such as André Gide, Oscar Wilde, Edward M. Forster, and Jean Genet made pilgrimages in the 19th and 20th centuries from homophobic Europe to Algeria, Morocco, Egypt, and various other Arab countries, where homosexual sex was not only met without any discrimination or subcultural ghettoization whatsoever, but rather, additionally as a result of rigid segregation of the sexes, seemed to be available on every corner."[121] Views about homosexuality have never been universal all across the Islamic world.[122] With reference to the Muslim world more broadly, Tilo Beckers writes that "Besides the endogenous changes in the interpretation of scriptures having a deliberalizing influence that came from within Islamic cultures, the rejection of homosexuality in Islam gained momentum through the exogenous effects of European colonialism, that is, the import of Western cultural understandings of homosexuality as a perversion."[18] University of Münster professor Thomas Bauer points that even though there were many orders of stoning for homosexuality, there is not a single proven case of it being carried out. Bauer continues that "Although contemporary Islamist movements decry homosexuality as a form of Western decadence, the current prejudice against it among Muslim publics stems from an amalgamation of traditional Islamic legal theory with popular notions that were imported from Europe during the colonial era, when Western military and economic superiority made Western notions of sexuality particularly influential in the Muslim world."[123]
-
-In some Muslim-majority countries, current anti-LGBT laws were enacted by United Kingdom or Soviet organs and retained following independence.[19][20] The 1860 Indian Penal Code, which included an anti-sodomy statute, was used as a basis of penal laws in other parts of the empire.[124] However, as Dynes and Donaldson point out, North African countries under French colonial tutelage lacked anti-homosexual laws which were only born afterwards, with the full weight of Islamic opinion descending on those who, on the model of the gay liberationists of the West, would seek to make "homosexuality" (above all, adult men taking passive roles) publicly respectable.[125] Jordan, Bahrain, and-more recently-India have abolished the criminal penalties for consensual homosexual acts introduced under colonial rule. Persecution of homosexuals has been exacerbated in recent decades by a rise in Islamic fundamentalism and the emergence of the gay-rights movement in the West, which allowed Islamists to paint homosexuality as a noxious Western import.[20]
-Pederasty
-Main article: Pederasty
-See also: Child sexual abuse, Hebephilia, Ephebophilia, Pedophilia, Sexual exploitation of children, and Sotadic zone
-Ottoman illustration depicting a young man used for group sex (from Sawaqub al-Manaquib), 19th century
-
-While friendship between men and boys is often described in sexual ways in classical Islamic literature, Khaled El-Rouayheb and Oliver Leaman have argued that it would be misleading to conclude from this that homosexuality was widespread in practice.[65] Such literature tended to use transgressive motifs alluding to what is forbidden, in particular homosexuality and wine.[65] Greek homoerotic motifs may have accurately described pederastic practices in ancient Greece, but in their Islamic adaptations they tended to play a satirical or metaphorical rather than descriptive role.[65] At the same time, many miniatures, especially from Ottoman Turkey, contain explicit depictions of pederasty, suggesting that the practice enjoyed a certain degree of popularity.[65] A number of pre-modern texts discuss the possibility of sexual exploitation faced by young boys in educational institutions and warn teachers to take precautions against it.[65]
-
-In modern times, despite the formal disapproval of religious authority, the segregation of women in Muslim societies and the strong emphasis on male virility leads some adolescent males and unmarried young men to seek sexual outlets with boys younger than themselves—in one study in Morocco, with boys in the age-range 7 to 13.[126]
-
-Liwat can therefore be regarded as "temptation",[127] and anal intercourse is not seen as repulsively unnatural so much as dangerously attractive. They believe "one has to avoid getting buggered precisely in order not to acquire a taste for it and thus become addicted."[128] Not all sodomy is homosexual: one Moroccan sociologist, in a study of sex education in his native country, states that for many young men, heterosexual sodomy is considered better than vaginal penetration, and female prostitutes likewise report the demand for anal penetration from their male clients.[129]
-
-In regards to homosexual intercourse, it is the enjoyment that is considered bad, rather than simply the penetration.[130] Deep shame attaches to the passive partner. Similar sexual sociologies are reported for other Muslim societies from North Africa to Pakistan and the Far East.[131] In 2015, The New York Times reported that U.S. soldiers serving in Afghanistan were instructed by their commanders to ignore child sexual abuse being carried out by Afghan security forces, except "when rape is being used as a weapon of war". American soldiers have been instructed not to intervene—in some cases, not even when their Afghan allies have abused boys on military bases, according to interviews and court records. But the U.S. soldiers have been increasingly troubled that instead of weeding out pedophiles, the U.S. military was arming them against the Taliban and placing them as the police commanders of villages—and doing little when they began abusing children.[84][132]
-Modern laws in Muslim-majority countries
-Further information: LGBT rights by country or territory
-Same-sex intercourse illegal:
-  Death penalty
-  Death penalty on books but not applied
-  Up to life in prison
-  Imprisonment
-  Unenforced penalty
-Criminalization
-
-According to the International Lesbian and Gay Association (ILGA) seven countries still retain capital punishment for homosexual behavior: Saudi Arabia, Yemen, Iran, Afghanistan, Mauritania, Sudan, and northern Nigeria.[133][134] In United Arab Emirates it is a capital offense.[25][26] In Qatar, Algeria, Uzbekistan, and the Maldives, homosexuality is punished with time in prison or a fine. This has led to controversy regarding Qatar, which is due to stage the 2022 FIFA World Cup. Human rights groups have questioned the awarding in 2010 of the right to host the competition, due to the possibility that gay football fans may be jailed. In response, Sepp Blatter, head of FIFA, joked that they would have to "refrain from sexual activity" while in Qatar. He later withdrew the remarks after condemnation from rights groups.[135]
-
-Same-sex sexual activity is illegal in Chad since 1 August 2017 under a new penal code. Before that, homosexuality between consenting adults had not been criminalized ever prior to this law.[136][137]
-
-In Egypt, openly gay men have been prosecuted under general public morality laws. (See Cairo 52.) "Sexual relations between consenting adult persons of the same sex in private are not prohibited as such. However, the Law on the Combating of Prostitution, and the law against debauchery have been used to imprison gay men in recent years."[138] An Egyptian TV host was recently sentenced to a year in prison for interviewing a gay man in January 2019.[139]
-
-Islamic state has decreed capital punishment for gay people. They have executed more than two dozen men and women for suspected homosexual activity, including several thrown off the top of buildings in highly publicized executions.[140]
-
-In India, which has the third-largest Muslim population in the world, and where Muslims form a large minority, the largest Islamic seminary (Darul Uloom Deoband) has vehemently opposed recent government moves[141] to abrogate and liberalize laws from the colonial era that banned homosexuality.[142] As of September 2018, homosexuality is no longer a criminal act in India, and most of the religious groups withdrew their opposing claims against it in the Supreme Court.[143]
-
-In Iraq, homosexuality is allowed by the government, but terrorist groups often carry out illegal executions of gay people. Saddam Hussein was "unbothered by sexual mores." Ali Hili reports that "since the 2003 invasion more than 700 people have been killed because of their sexuality." He calls Iraq the "most dangerous place in the world for sexual minorities."[115]
-
-In Jordan, where homosexuality is legal, "gay hangouts have been raided or closed on bogus charges, such as serving alcohol illegally."[115] Despite this legality, social attitudes towards homosexuality are still hostile and hateful.[144]
-
-In Pakistan, its law is a mixture of both Anglo-Saxon colonial law as well as Islamic law, both which proscribe criminal penalties for same-sex sexual acts. The Pakistan Penal Code of 1860, originally developed under colonial rule, punishes sodomy with a possible prison sentence and has other provisions that impact the human rights of LGBT Pakistanis, under the guise of protecting public morality and order. Yet, the more likely situation for gay and bisexual men is sporadic police blackmail, harassment, fines, and jail sentences.[145]
-
-In Bangladesh, homosexual acts are illegal and punishable according to section 377. Due to the traditional mentality of the predominantly conservative Bangladeshi society, negative attitudes towards those in the LGBT community are high. In 2009 and 2013, the Bangladeshi Parliament refused to overturn Section 377.[146][verification needed]
-
-In Saudi Arabia, the maximum punishment for homosexual acts is public execution by beheading.[147]
-
-In Malaysia, homosexual acts are illegal and punishable with jail, fine, deportation, whipping or castration. In October 2018, Prime Minister Mahathir Mohamad stated that Malaysia would not "copy" Western nations' approach towards LGBT rights, indicating that these countries were exhibiting a disregard for the institutions of the traditional family and marriage, as the value system in Malaysia is good.[148] In May 2019, in response to the warning of George Clooney about intending to impose death penalty for homosexuals like Brunei, the Deputy Foreign Minister Marzuki Yahya pointed out that Malaysia does not kill gay people, and will not resort to killing sexual minorities. He also said, although such lifestyles deviate from Islam, the government would not impose such a punishment on the group.[149]
-
-In Indonesia, most parts of the country do not have a sodomy law and do not currently criminalize private, non-commercial homosexual acts among consenting adults, except in Aceh province and in the city of Pariaman, West Sumatra, where homosexuality is illegal for Muslims under Islamic Sharia law, and punishable by flogging. While not criminalising homosexuality, the country does not recognise same-sex marriage. In July 2015, the Minister of Religious Affairs stated that it is difficult in Indonesia to legalize Gay Marriage, because strongly held religious norms speak strongly against it.[150] According to some jurists, there should be death stoning penalty for homosexuals. While another group consider flogging with 100 lashes is the correct punishment.[151]
-
-In Turkey, homosexuality is legal, but "official censure can be fierce". A former interior minister, İdris Naim Şahin, called homosexuality an example of "dishonour, immorality and inhuman situations".[115] Turkey held its 16th Gay Pride Parade in Istanbul on 30 June 2019.[152]
-
-As the latest addition in the list of criminalizing Muslim counties, Brunei's has implemented penalty for homosexuals within Sharia Penal Code in stages since 2014. It prescribes death by stoning as punishment for sex between men,[153] and sex between women is punishable by caning or imprisonment. The sultanate currently has a moratorium in effect on death penalty.[154][155]
-Death penalty
-Further information: Death penalty for homosexuality
-
-In 2016, the International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA) released its most recent State Sponsored Homophobia Report. The report found that thirteen countries or regions impose the death penalty for "same-sex sexual acts" with reference to sharia-based laws. In Iran, according to article 129 and 131 there are up to 100 lashes of whip first three times and fourth time death penalty for lesbians.[156] The death penalty is implemented nationwide in Brunei, Iran, Saudi Arabia, Sudan and Yemen; implemented locally in Nigeria (12 northern states), United Arab Emirates, and Somalia (southern parts); allowed by the law but not implemented in Afghanistan, Mauritania, and Pakistan; and was back then implemented through non-state courts by ISIS in parts of Iraq and Syria (now no longer existing).[157][154]
-
-Due to Brunei's law dictating that gay sex be punishable by stoning, many of its targeted citizens fled to Canada in hopes of finding refuge. The law is also set to impose the same punishment for adultery among heterosexual couples. Despite pushback from citizens in the LGBTQ+ community, Brunei prime minister's office produced a statement explaining Brunei's intention for carrying through with the law. It has been suggested that this is part of a plan to separate Brunei from the western world and towards a Muslim one.[158]
-Minor penalty
-
-In Algeria, Bangladesh, Chad,[29] Aceh province and Pariaman city in West Sumatra of Indonesia,[159] Malaysia, Maldives, Pakistan, Qatar, Somalia and Syria, it is illegal, and penalties may be imposed.[30][31][32][33][160][161][38][162] In Kuwait, Turkmenistan and Uzbekistan, homosexual acts between males are illegal, but homosexual relations between females are legal.[38][163][43][44]
-Legalization
-Istanbul LGBT pride parade in 2013, Taksim Square, Istanbul, Turkey.
-Gay Pride ride 2016 in Tirana, Albania.
-
-The Ottoman Empire (predecessor of Turkey) decriminalized homosexuality in 1858. In Turkey, where 99.8% of the population is officially registered as Muslim, homosexuality has never been criminalized since the day it was founded in 1923.[164] LGBT people also have the right to seek asylum in Turkey under the Geneva Convention since 1951.[165]
-
-Same-sex sexual intercourse is legal in Albania, Azerbaijan, Bahrain, Bosnia and Herzegovina, Burkina Faso, Djibouti, Guinea-Bissau, Iraq, Jordan, Kazakhstan, Kosovo, Kyrgyzstan, Mali, Niger, Tajikistan, Turkey, West Bank (State of Palestine), most of Indonesia, and in Northern Cyprus. In Albania and Turkey, there have been discussions about legalizing same-sex marriage.[166][167] Albania, Northern Cyprus, and Kosovo also protect LGBT people with anti-discrimination laws.
-
-Same-sex relations between females are legal in Kuwait, Turkmenistan, and Uzbekistan, but homosexual acts between males are illegal.[38][168][43][44]
-
-In Lebanon, courts have ruled that the country's penal code must not be used to target homosexuals, but the law has yet to be changed by parliament.[36][37]
-Same-sex marriage
-
-In 2007 there was a gay party in the Moroccan town of al-Qasr al-Kabir. Rumours spread that this was a gay marriage and more than 600 people took to the streets, condemning the alleged event and protesting against leniency towards homosexuals.[169] Several persons who attended the party were detained and eventually six Moroccan men were sentenced to between four and ten months in prison for "homosexuality".[170]
-
-In France there was an Islamic same-sex marriage on 18 February 2012.[171] In Paris in November 2012 a room in a Buddhist prayer hall was used by gay Muslims and called a "gay-friendly mosque",[172] and a French Islamic website[173] is supporting religious same-sex marriage.
-
-The first American Muslim in the United States Congress, Keith Ellison (D-MN) said in 2010 that all discrimination against LGBT people is wrong.[174] He further expressed support for gay marriage stating:[175]
-
-    I believe that the right to marry someone who you please is so fundamental it should not be subject to popular approval any more than we should vote on whether blacks should be allowed to sit in the front of the bus.
-
-In 2014 eight men were jailed for three years by a Cairo court after the circulation of a video of them allegedly taking part in a private wedding ceremony between two men on a boat on the Nile.[176]
-Transgender
-A group of hijras and transgender people protest in Islamabad, Pakistan.
-
-In the late 1980s, Mufti Muhammad Sayyid Tantawy of Egypt issued a fatwa supporting the right for those who fit the description of mukhannathun to have sex reassignment surgery; Ayatollah Khomeini of Iran issued similar fatwas around the same time.[22][71] Khomeini's initial fatwa concerned intersex individuals as well, but he later specified that sex reassignment surgery was also permissible in the case of transgender individuals.[22][71] Because homosexuality is illegal in Iran but transgenderism is legal, some gay individuals have been forced to undergo sex reassignment surgery and transition into the opposite sex, regardless of their actual gender identity.[177]
-
-While Iran has outlawed homosexuality, Iranian thinkers such as Ayatollah Khomeini have allowed for transgender people to change their sex so that they can enter heterosexual relationships.[22][71] This position has been confirmed by the Supreme Leader of Iran, Ayatollah Ali Khamenei, and is also supported by many other Iranian clerics.[citation needed] Iran carries out more sex change operations than any other nation in the world, except for Thailand.[citation needed] It is regarded as a cure for homosexuality, which is punishable by death under Iranian law. The government even provides up to half the cost for those needing financial assistance and a sex change is recognized on the birth certificate.[178]
-
-On 26 June 2016, clerics affiliated to the Pakistan-based organization Tanzeem Ittehad-i-Ummat issued a fatwa on transgender people where a trans woman (born male) with "visible signs of being a woman" is allowed to marry a man, and a trans man (born female) with "visible signs of being a man" is allowed to marry a woman. Pakistani transgender persons can also change their (legal) sex. Muslim ritual funerals also apply. Depriving transgender people of their inheritance, humiliating, insulting or teasing them were also declared haraam.[179]
-
-In Pakistan, transgender people make up 0.005 percent of the total population.[180] Previously, transgender people were isolated from society and had no legal rights or protections. They also suffered discrimination in healthcare services. For example, in 2016 a transgender individual died in a hospital while doctors were trying to decide which ward the patient should be placed in. Transgender people also faced discrimination in finding employment resulting from incorrect identity cards and incongruous legal status. Many were forced into poverty, dancing, singing, and begging on the streets to scrape by.[181] However, in May 2018, the Pakistani parliament passed a bill giving transgender individuals the right to choose their legal sex and correct their official documents, such as ID cards, driver licenses, and passports.[182] Today, transgender people in Pakistan have the right to vote and to search for a job free from discrimination. As of 2018, one transgender woman became a news anchor, and two others were appointed to the Supreme Court.[183]
-
-In Lebanon, transgender women are not given any rights. Discrimination starts from their own family members when trans women are forced to leave their house. After that, trans women are not allowed to have any connections with their family members or with their neighbors. Trans women can't access educational institutions and medical services. Moreover, trans women face employment discrimination due to their wrong identity cards that are not being corrected by the government agencies. To support themselves financially, the only option often open to trans women is sex work, which is not safe for them either. Doing sex work, trans women are at higher risk of sexual abuse and violence. No laws are in existence to protect trans women. Instead, trans women are being arrested and put in jail for up to one year for having same-sex intercourse.[184]
-
-Although it prohibits homosexuality, Iran is the only[citation needed] Muslim-majority country in the Persian Gulf region that allows transgender people to express themselves by recognizing their self-identified gender and subsidizing reassignment surgery. Despite this, those who do not commit to reassignment surgery are often seen as freaks, and due to their refusal to conform they are treated as outcasts.[185]
-Public opinion among Muslims
-World Muslim population by percentage (Pew Research Center, 2014).
-LGBT rights at the United Nations
-
-    vte
-
-  
-	Neither	States which did not support either declaration
-  
-	Non-member states	States that are not voting members of the United Nations
-  
-	Oppose	States which supported an opposing declaration in 2008 and continued their opposition in 2011
-  
-	Subsequent member	South Sudan, which was not a member of the United Nations in 2008
-  
-	Support	States which supported the LGBT rights declaration in the General Assembly or on the Human Rights Council in 2008 or 2011
-
-In 2011, the UN Human Rights Council passed its first resolution recognizing LGBT rights, which was followed up with a report from the UN Human Rights Commission documenting violations of the rights of LGBT people.[186][187] The two world maps of the percentage of Muslims per country and the countries that support LGBT rights at the UN give an impression of the attitude towards homosexuality on the part of many Muslim-majority governments.
-Islamic anti-LGBT protesters at an LGBT Pride march in Nottingham, England
-
-The Muslim community as a whole, worldwide, has become polarized on the subject of homosexuality. Some Muslims say that "no good Muslim can be gay," and "traditional schools of Islamic law consider homosexuality a grave sin." At the opposite pole, "some Muslims . . . are welcoming what they see as an opening within their communities to address anti-gay attitudes." Especially, it is "young Muslims" who are "increasingly speaking out in support of gay rights".[188]
-
-According to the Albert Kennedy Trust, one in four young homeless people identify as LGBT due to their religious parents disowning them. The Trust suggests that the majority of individuals who are homeless due to religious out casting are either Christian or Muslim. Many young adults who come out to their parents are often forced out of the house to find refuge in a more accepting place. This leads many individual to be homeless or even attempt suicide.[189]
-Opinion polls
-
-In 2013, the Pew Research Center conducted a study on the global acceptance of homosexuality and found a widespread rejection of homosexuality in many nations that are predominantly Muslim. In some countries, views were becoming more conservative among younger people.[190]
-Age and views on homosexuality in 2013 Country[191] 	18–29 	30–49 	50+
-Homosexuality
-should be accepted 	% 	% 	%
-Turkey 	9 	7 	10
-Egypt 	3 	2 	3
-Jordan 	5 	1 	1
-Lebanon 	27 	17 	10
-Palestine 	5 	3 	--
-Tunisia 	3 	2 	1
-Indonesia 	4 	2 	3
-Malaysia 	7 	10 	11
-Pakistan 	2 	2 	2
-Senegal 	5 	2 	2
-
-2019 Arab Barometer Survey:
-Country[192] 	Acceptance of Homosexuality
-Algeria 	26%
-Morocco 	21%
-Sudan 	17%
-Jordan 	7%
-Tunisia 	7%
-Lebanon 	6%
-Palestine territories 	5%
-
-    A 2007 survey of British Muslims showed that 61% believe homosexuality should be illegal.[193] A later Gallup poll in 2009 showed that none of the 500 British Muslims polled believed homosexuality to be "morally acceptable".[194] In a 2016 ICM poll of 1,081 British Muslims, 52% of those polled disagreed with the statement 'Homosexuality should be legal in Britain' while 18% agreed. In the same poll, 56% of British Muslims polled disagreed with the statement 'Gay marriage should be legal in Britain' compared with 20% of the control group and 47% disagreed with the statement 'It is acceptable for a homosexual person to be a teacher in a school' compared with 14% of the control group.[195]
-    According to a 2012 poll, 51% of the Turks in Germany, who account for nearly two thirds of the total Muslim population in Germany,[196] believed that homosexuality is an illness.[197] However, a more recent poll from 2015 found that more than 60% of Muslims in Germany support gay marriage.[198] A poll in 2017 also found 60% support for gay marriage.[199]
-    American Muslims - in line with general public attitudes in the United States - have become much more accepting of homosexuality over recent years. In a 2007 poll conducted by Pew Research Center, only 27% of American Muslims believed that homosexuality should be accepted. In a 2011 poll, that rose to 39%. In a July 2017 poll, Muslims who say homosexuality should be accepted by society clearly outnumber those who say it should be discouraged (52% versus 33%), a level of acceptance similar to American Protestants (52% in 2016).[200] According to research by the Public Religion Research Institute's 2017 American Values Atlas, 51% of American Muslims favor same-sex marriage, while 34% are opposed.[201]
-    The 2009 Gallup poll showed that 35% of the French Muslims believed that homosexuality to be "morally acceptable".[194]
-    A 2016 iVOX survey of Belgian Muslims found that 53% agreed with the statement: "I have no issues with homosexuality." Approximately 30% disagreed with the statement while the rest refused to answer or were unsure.[202]
-    A 2016 survey of Canadian Muslims showed that 36% believes homosexuality should be generally accepted by society with up to 47% young Canadian Muslims(18-34) holding this belief.The survey also states that 43% of the Canadian Muslims disagreed with the statement homosexuality is acceptable. Muslims who opposed homosexuality are mostly older age groups 45 to 59 (55%), those with the lowest incomes (56%).[203]
-    Turkey Muslims: According to the survey conducted by the Kadir Has University in Istanbul in 2016, 33 per cent of people said that LGBT people should have equal rights. This increased to 45 per cent in 2020. Another survey by Kadir Has University in 2018 found that 55.3 percent of people wouldn't want a homosexual neighbour. This decreased to 46.5 per cent in 2019.[204][205]
-
-Muslim leaders
-Sunni
-
-    In 2017, the Egyptian cleric, Sheikh Yusuf al-Qaradawi (who has served as chairman of the European Council for Fatwa and Research) was asked how gay people should be punished. He replied that "there is disagreement," but "the important thing is to treat this act as a crime."[206]
-
-Shia
-
-    Iran's current Supreme Leader, Ayatollah Ali Khamenei has stated that "There is no worst form of moral degeneration than [homosexuality]. ... But it won't stop here. In the future, not sure exactly when, they will legalize incest and even worse."[207] Mohammad Javad Larijani, Khamenei's close adviser, stated "In our society, homosexuality is regarded as an illness and malady," whilst adding "Promoting homosexuality is illegal and we have strong laws against it," Larijani said, according to the conservative news website Khabaronline. He added, "It [homosexuality] is considered as a norm in the West and they are forcing us to accept it. We are strongly against this."[208]
-    Ayatollah Ali al-Sistani in Iraq has stated "It is not permissible for a man to look at another man with lust; similarly, it is not permissible for a woman to look at another woman with lust. Homosexuality (Ash-shudhûdh al-jinsi) is harãm. Similarly, it is forbidden for a female to engage in a sexual act with another female, i.e. lesbianism."[209]
-
-LGBT-related movements within Islam
-Conservative movements
-Ex-gay organizations
-
-There are a number of Islamic ex-gay organizations, that is, those composed of people claiming to have experienced a basic change in sexual orientation from exclusive homosexuality to exclusive heterosexuality.[210] These groups, like those based in socially conservative Christianity, are aimed at attempting to guide homosexuals towards heterosexuality. One of the leading LGBT reformatory Muslim organization is StraightWay Foundation, which was established in the United Kingdom in 2004 as an organization that provides information and advice for Muslims who struggle with homosexual attraction.[53][211][212] They believe "that through following God's guidance", one may "cease to be" gay. They teach that the male-female pair is the "basis for humanity's growth" and that homosexual acts "are forbidden by God".[213] NARTH has written favourably of the group.[214] In 2004, Straightway entered into a controversy with the contemporary Mayor of London, Ken Livingstone, and the controversial Islamic cleric Yusuf al-Qaradawi. It was suggested that Livingstone was giving a platform to Islamic fundamentalists, and not liberal and progressive Muslims.[215] Straightway responded to this by compiling a document to clarify what they regarded as fundamental issues concerning Islam and homosexuality.[216] They sent Livingstone a letter thanking him for his support of al-Qaradawi.[217] Livingstone then ignited controversy when he thanked Straightway for the letter.[218]
-Chechnya anti-gay purge
-A public demonstration, "Chechen mothers mourn their children", was staged on 1 May 2017 on Nevsky Prospect in Saint Petersburg, to protest the persecution of gay men in Chechnya.[219][220]
-Main articles: Gay concentration camps in Chechnya, LGBT rights in Chechnya, and Islam in Russia
-
-Since February 2017, over 100 male residents of the Chechen Republic (part of the Russian Federation) assumed to be gay or bisexual have been rounded up, detained and tortured by authorities on account of their sexual orientation.[221] These crackdowns have been described as part of a systemic anti-LGBT "purge" in the region. The men are held and allegedly tortured in concentration camps.[222][223]
-
-Allegations were initially reported in Novaya Gazeta on 1 April 2017[224] a Russian-language opposition newspaper, which reported that over 100 men have allegedly been detained and tortured and at least three people have died in an extrajudicial killing. The paper, citing its sources in the Chechen special services, called the wave of detentions a "prophylactic sweep."[224][225] The journalist who first reported on the subject has gone into hiding,[226][227] There have been calls for reprisals for journalists reporting on the situation.[228]
-
-In response, the Russian LGBT Network is attempting to assist those who are threatened to evacuate from Chechnya.[229][230] Human rights groups and foreign governments have called upon Russia and Chechnya to put an end to the internments.[231]
-
-On 11 January 2019, it was reported that another 'gay purge' had begun in the country in December 2018, with several gay men and women being detained.[232][233][234][235] The Russian LGBT Network believes that around 40 persons were detained and two killed.[236][237]
-Attempts against LGBT people
-
-Several anti-LGBT incidents have occurred:
-
-    In 2012, in the English city of Derby, some Muslim men "distributed . . . leaflets depicting gay men being executed in an attempt to encourage hatred against homosexuals." The leaflets had such titles as "Turn or Burn" and "God abhors you" and they advocated a death penalty for homosexuality.[238] The men were "convicted of hate crimes" on 20 January 2012. One of the men said that he was doing his Muslim duty.[115]
-    31 December 2013 - New Year's Eve arson attack on gay nightclub in Seattle, packed with 300+ revelers, but no one injured. Subject charged prosecuted under federal terror and hate-crime charges.[239]
-    12 February 2016 - Across Europe, gay refugees facing abuse at migrant asylum shelters are forced to flee shelters.[240]
-    25 April 2016 - Xulhaz Mannan, an employee of the United States embassy in Dhaka and the editor of Bangladesh's first and only LGBT magazine, was killed in his apartment by a gang of Islamic militants.[241]
-    12 June 2016 - At least 49 people were killed and 50 injured in a mass shooting at Pulse gay nightclub in Orlando, Florida, in the second deadliest mass shooting by an individual and the deadliest incident of violence against LGBT people in U.S. history. The shooter, Omar Mateen, pledged allegiance to ISIL. The act has been described by investigators as an Islamic terrorist attack and a hate crime.[242][243][244][245][246][247][248] Upon further review, investigators indicated Omar Mateen showed few signs of radicalization, suggesting that the shooter's pledge to ISIL may have been a calculated move to garner more news coverage.[249] Afghanistan,[250] Algeria,[251] Azerbaijan,[252] Bahrain,[253] Djibouti,[254] Egypt,[255] Iraq,[256] Iran,[257] Pakistan,[250] Saudi Arabia,[258] Turkey,[259] Turkmenistan and United Arab Emirates condemned the attack.[260][261] Many American Muslims, including community leaders, swiftly condemned the attack.[262][263] Prayer vigils for the victims were held at mosques across the country.[264] The Florida mosque where Mateen sometimes prayed issued a statement condemning the attack and offering condolences to the victims.[265] The Council on American–Islamic Relations called the attack "monstrous" and offered its condolences to the victims. CAIR Florida urged Muslims to donate blood and contribute funds in support of the victims' families.[262][266]
-    During March 2019, British Muslim parents began protesting Parkfield Community School, a town where more than a third of the children are Muslim, due to the school's implementation of a “No Outsiders” sex-education program. The aim of this program was to provide students with lessons on same-sex relationships. The protest led to the school backing down by no longer following through with the “No Outsider” program. Regardless of this, the school's minister emphasized that the school tries express equality.[267]
-
-Liberal movements
-See also: Liberal and progressive Muslim movements
-
-The coming together of "human rights discourses and sexual orientation struggles" has resulted in an abundance of "social movements and organizations concerned with gender and sexual minority oppression and discrimination."[268]
-Defunct movements
-Members of Al Fatiha at the LGBT Pride parade in San Francisco 2008.
-
-The Al-Fatiha Foundation was an organization which tried to advance the cause of gay, lesbian, and transgender Muslims. It was founded in 1998 by Faisal Alam, a Pakistani American, and was registered as a nonprofit organization in the United States. The organization was an offshoot of an internet listserve that brought together many gay, lesbian and questioning Muslims from various countries.[269][verification needed] The Foundation accepted and considered homosexuality as natural, either regarding Qur'anic verses as obsolete in the context of modern society, or stating that the Qu'ran speaks out against homosexual lust and is silent on homosexual love. After Alam stepped down, subsequent leaders failed to sustain the organization and it began a process of legal dissolution in 2011.[270][non-primary source needed]
-
-In 2001, Al-Muhajiroun, an international organization which sought the establishment of a global Islamic caliphate, but which is now a banned and defunct, issued a fatwa (ruling) declaring that all members of Al-Fatiha were murtadd (apostates), and condemning them to death. Because of this threat and their conservative familial backgrounds, many Al-Fatiha members chose anonymity to protect their identity.[271] Al-Fatiha had fourteen chapters in the United States, as well as offices in England, Canada, Spain, Turkey, and South Africa.
-Active movements
-
-The Al-Fitrah Foundation, previously known as The Inner Circle was one of the first queer Muslim organizations founded in 1996 when its founder Imam Muhsin Hendricks publicly revealed his sexual orientation. Imam Muhsin Hendricks is also considered as the world's first openly queer Imam. His activism grew since then and the organization became public in 1998. It soon grew into an international organization with annual international retreats of up to 120 international delegates meeting annually in Cape Town to discuss issues pertaining to LGBTIQ Muslims. In 2018 after having served the organization for 20 years her resigned after detecting corruption in the organization and being maliciously and wrongfully accused of mismanagement of funds. He, along with other queer Muslims who left the old Al-Fitrah Foundation founded a new organization in 2018 called Al-Ghurbaah Foundation. Imam Muhsin Hendricks also administers the Compassion-centred Islamic Network (CCI Network) which is a global network that seeks to connect and create a stronger voice for queer Muslims amongst activists, academics, Islamic scholars and religious leaders (Imams). Currently, the organization's main focus is working with religious leaders (Imams) while serving the needs of the queer Muslim community globally. Al-Ghurbaah Foundation also runs an inclusive mosque called Masjidul Ghurbaah which is open to anyone who wants to connect spiritually regardless of sexual orientation, gender identity, religion or belief.
-
-    In November 2012, a prayer room was set up in Paris by gay Islamic scholar and founder of the group 'Homosexual Muslims of France' Ludovic-Mohamed Zahed. It was described by the press as the first gay-friendly mosque in Europe. The reaction from the rest of the Muslim community in France has been mixed. The opening has been condemned by the Grand Mosque of Paris.[272]
-
-Float for gay Muslims at Pride London 2011.
-
-    In September 2019, a group of Muslims known as Imaan who identify and support LGBTQ+ members of Islam religion attempted to crowdfund £5,000 to host a festival for LGBTQ+ Muslims. Since homosexuality is against the law in some Middle Eastern countries, Imaan is taking a large stance against these laws and is attempting to change the way Middle Eastern countries look at LGBTQ+ individuals. Many LGBTQ+ Muslims are forced to choose between their sexuality and their religion, often forcing individuals to not express who they truly are.[273]
-    The Ibn Ruschd-Goethe mosque in Berlin is a liberal mosque open to all types of Muslims, where men and women pray together and LGBT worshippers are welcomed and supported.[274]
-    Imaan, a social support group for Muslim LGBT people and their families, exists in the UK.[275][non-primary source needed] Imaan, like Al-Fatiha, was founded by gay Pakistani activists.
-    Inclusive Mosque Initiative, a UK based grassroots activist organisation founded in 2012, which works toward "establishing a place of worship for the promotion and practice of an inclusive Islam".[276][non-primary source needed]
-    Nur Warsame has been an advocate for LGBTQ Muslims. He founded Marhaba, a support group for queer Muslims in Melbourne, Australia. In May 2016, Wahrsage revealed that he is homosexual in an interview on SBS2's The Feed, being the first openly gay Imam in Australia.[277]
-    The Muslim Alliance for Sexual and Gender Diversity (MASGD) in the United States began on 23 January 2013. It supports, empowers and connects LGBTQ Muslims. It aims "to increase the acceptance of gender and sexual diversity within Muslim communities."[278][non-primary source needed] On 20 June 2016, an interview with Mirna Haidar (a member of the MASGD's steering committee) was published in The Washington Post. She described the MASGD as supporting "LGBT Muslims who want or need to embrace both their sexual and religious identities." Haidar said that the support which the MASGD provides is needed because a person who is "Muslim and queer " faces "two different systems of oppression": Islamophobia and homophobia.[279]
-    Muslims for Progressive Values, based in the United States and in Malaysia, is "a faith-based, grassroots, human rights organization that embodies and advocates for the traditional Qur'anic values of social justice and equality for all, for the 21st Century."[280] MPV has recorded "a lecture series that seeks to dismantle the religious justification for homophobia in Muslim communities." The lectures can be viewed at MPV Lecture Series.[281]
-    The Safra Project for women is based in the UK. It supports and works on issues relating to prejudice LGBTQ Muslim women. It was founded in October 2001 by Muslim LBT women. The Safra Project's "ethos is one of inclusiveness and diversity."[282]
-    Salam is a voluntary organization that promotes an inclusive and safe environment for lesbians, gays, bisexuals, transgender people, and / or other non-binary Muslims backgrounds in Norway.[283][better source needed]
-
-El-Farouk Khaki, founding member of Salaam group and the Toronto Unity Mosque / el-Tawhid Juma Circle
-
-    Salaam is the first gay Muslim group in Canada and second in the world. Salaam was found in 1993 by El-Farouk Khaki, who organized the Salaam/Al-Fateha International Conference in 2003.[284]
-    Sarajevski Otvoreni Centar (Sarajevo Open Centre), abbreviated SOC, is an independent feminist civil society organization and advocacy group which campaigns for lesbian, gay, bisexual, trans and intersex (LGBTI) people and women rights in Bosnia and Herzegovina.[285][286] The organization also gives asylum and psychological support to victims of discrimination and violence.[287]
-    The Pink Report is an annual report made by the organization on the state of the Human Rights of LGBTI People in the country and is supported by the Norwegian Embassy.[288]
-    In May 2009, the Toronto Unity Mosque / el-Tawhid Juma Circle was founded by Laury Silvers, a University of Toronto religious studies scholar, alongside Muslim gay-rights activists El-Farouk Khaki and Troy Jackson. Unity Mosque/ETJC is a gender-equal, LGBT+ affirming, mosque.[289][290][291][292] The mosque offers aims to eliminate gender segregation by removing a dress code for women. While it was the only mosques of its kind when it first opened, more communities and mosques have become more accepting of LGBT members. El-Farouk Khaki has been quoted as saying “more and more groups, communities and mosques that celebrate and embrace inclusion and diversity are forming”.[293]
-    Imam Daayiee Abdullah, one of America's first openly gay Imam's, argues that the existing view towards homosexuality among Muslims is based on tradition, not an interpretation of scriptures. In 2011, Abdullah created an LGBTQ+ mosques, known as the Light of Reform Mosque, to provide members of the LGBTQ+ community with marriage ceremonies. Abdullah opened the Mecca Institute in an attempt to open at least 50 LGBTQ+ friendly mosques by 2030.[293]
-
-Muslim LGBT rights activists
-
-There are numbers of Muslim LGBT activists from different parts of the world. Some of them are listed below:
-
-    Afdhere Jama, editor of Huriyah
-    El-Farouk Khaki, founder of Salaam, the first homosexual Muslim group in Canada
-    Faisal Alam, Pakistani American founder of Al-Fatiha Foundation
-    Irshad Manji, Canadian lesbian and human rights activist
-    Maryam Hatoon Molkara, campaigner for transsexual rights in Iran
-    Parvez Sharma, Filmmaker and LGBT activist
-    Ahmad Zahra, first openly LGBTI Muslim elected to public office in US.[294]
-    Daayiee Abdullah: an African-American gay imam from the United States.
-    Ludovic-Mohamed Zahed: an Algerian-French gay imam from Algeria.
-    Amal Aden: a Somali–Norwegian author, lecturer and lesbian activist.
-    Waheed Alli, Baron Alli: a British media entrepreneur and a member of the House of Lords in the United Kingdom, sitting as a life peer for the Labour Party
-    Sumaya Dalmar: also known as Sumaya YSL, is a Somali-Canadian transgender activist and model.
-    Blair Imani: is an African-American Muslim activist.
-    Florina Kaja: an American reality television personality, singer, actress and activist.
-    Saleem Kidwai: a medieval historian, gay rights activist and a translator.
-    Tynan Power: a progressive Muslim faith leader, writer/editor, communications specialist, activist, and educator.
-    Ahmad Danny Ramadan: a Syrian-Canadian novelist, public speaker, columnist, and a gay refugee activist.
-    Omar Sharif Jr. is an Egyptian-Canadian actor, model, and gay activist
-    Hamed Sinno a Lebanese singer, songwriter, musician.
-    Samra Habib – Queer Muslim photographer[295]
-    Sarah Hegazi an Egyptian socialist and lesbian activist.
-
-In popular culture
-Books
-Islam and Homosexuality
-
-In 2010, an anthology Islam and Homosexuality was published.[296] In the Forward, Parvez Sharma sounded a pessimistic note about the future: "In my lifetime I do not see Islam drafting a uniform edict that homosexuality is permissible." Following is material from two chapters dealing with the present:
-
-    Rusmir Musić in a chapter "Queer Visions of Islam" said that "Queer Muslims struggle daily to reconcile their sexuality and their faith." Musić began to study in college "whether or not my love for somebody of the same gender disgusts God and whether it will propel me to hell. The answer, for me, is an unequivocal no. Furthermore, Musić wrote, "my research and reflection helped me to imagine my sexuality as a gift from a loving, not hateful, God."[297]
-
-    Marhuq Fatima Khan in a chapter "Queer, American, and Muslim: Cultivating Identities and Communities of Affirmation," says that "Queer Muslims employ a few narratives to enable them to reconcile their religious and sexual identities." They "fall into three broad categories: (1) God Is Merciful; (2) That Is Just Who I Am; and (3) It's Not Just Islam."[298]
-
-Progressive Muslims: On Justice, Gender, and Pluralism
-
-In Chapter Eight of the 2003 book, Progressive Muslims: On Justice, Gender, and Pluralism, Professor Scott Siraj al-Haqq Kugle[299] asserts "that Islam does not address homosexuality." In Kugle's reading, the Quran holds "a positive assessment of diversity." It "respects diversity in physical appearance, constitution, stature, and color of human beings as a natural consequence of Divine wisdom in creation." Therefore, Islam can be described as "a religion that positively assesses diversity in creation and in human societies." Furthermore, in Kugle's reading, the Quran "implies that some people are different in their sexual desires than others." Thus, homosexuality can be seen as part of the "natural diversity in sexuality in human societies." This is the way "gay and lesbian Muslims" view their homosexuality.[57]: 194–196 
-
-In addition to the Qur'an, Kugle refers to the benediction of Imam Al-Ghazali (the 11th-century Muslim theologian) which says. "praise be to God, the marvels of whose creation are not subject to the arrows of accident." For Kugle, this benediction implies that "if sexuality is inherent in a person's personality, then sexual diversity is a part of creation, which is never accidental but is always marvelous." Kugle also refers to "a rich archive of same-sex sexual desires and expressions, written by or reported about respected members of society: literati, educated elites, and religious scholars." Given these writings, Kugle concludes that "one might consider Islamic societies (like classical Greece) to provide a vivid illustration of a 'homosexual-friendly' environment." This evoked from "medieval and early modern Christian Europeans" accusations that Muslim were "engaging openly in same-sex practices."[57]: 198 
-
-Kugle goes a step further in his argument and asserts that "if some Muslims find it necessary to deny that sexual diversity is part of the natural created world, then the burden of proof rests on their shoulders to illustrate their denial from the Qur'anic discourse itself."[57]: 196, 198 
-Sexual Ethics and Islam
-
-Kecia Ali in her 2016 book Sexual Ethics and Islam says that "there is no one Muslim perspective on anything." Regarding the Quran, Ali says that modern scholars disagree about what it says about "same-sex intimacy." Some scholars argue that "the Qur'an does not address homosexuality or homosexuals explicitly."[300]: xvi, 103 
-
-Regarding homosexuality, Ali, says that the belief that "exclusively homosexual desire is innate in some individuals" has been adopted "even among some relatively conservative Western Muslim thinkers."100 Homosexual Muslims believe their homosexuality to be innate and view "their sexual orientation as God-given and immutable." She observes that "queer and trans people are sometimes treated as defective or deviant," and she adds that it is "vital not to assume that variation implies imperfection or disability."[300]: 100, 123, 206 
-
-Regarding "medieval Muslim culture," Ali says that "male desire to penetrate desirable youth . . . was perfectly normal." Even if same-sex relations were not lawful, there was "an unwillingness to seek out and condemn instances of same-sex activity, but rather to let them pass by . . . unpunished."[300]: 105–106  Ali states that some scholars claim that Islamic societies were 'homosexual-friendly' in history.[300]: 100 
-
-In an article "Same-sex Sexual Activity and Lesbian and Bisexual Women" Ali elaborates on homosexuality as an aspect of medieval Muslim culture. She says that "same-sex sexual expression has been a more or less recognized aspect of Muslim societies for many centuries." There are many explicit discussions of "same-sex sexual activity" in medieval Arabic literature.[301] Ali states there is a lack of focus in medieval tradition on female same-sex sexual activity, where the Qur'an mainly focuses male/male sex. With female same-sex sexual activity there is more focus on the punishment for the acts and the complications with the dower, compare to men where there is a focus on punishment but also the needs to ablutions and the effect of the act on possible marriage decisions.[300]: 101 
-Miscellaneous
-
-    Islamic Homosexualities: Culture, History, and Literature (1997) — essay collection
-    In February 2019, the government of Indonesia – a country with a majority Muslim population – threatened to ban Instagram due to an account that was posting “Gay Muslim” comics. @Alpantuni was a profile that posted comics that tackled gay-identity and religious bigotry to connect with members of the LGBT community. Although Instagram refused to remove the account as it would violate its own terms and conditions, the account is currently unavailable.[302]
-
-Films and media
-
-    In 2007, the documentary film A Jihad for Love was released. It was produced by Sandi Simcha DuBowski and directed by Parvez Sharma. As of 2016 the film has been shown in 49 nations to four million plus viewers.[303]
-    Out in the Dark, a 2012 film about the gay love story of a Palestinian Muslim and an Israeli Jew.[304]
-    Breaking Fast, love story between Mo, a gay Muslim doctor in Los Angeles and Kal who get to know each other over nightly iftars.[305][306]
-    In 2015, the documentary film A Sinner in Mecca was released. It was directed by Parvez Sharma. The film chronicles Sharma's Hajj pilgrimage to Mecca, Saudi Arabia as an openly gay Muslim. The film premiered at the 2015 Hot Docs Canadian International Documentary Festival to great critical acclaim.[307] The film opened in theaters in the US on 4 September 2015 and is a New York Times Critics' Pick.[308]
-    Gay Muslims is a Channel 4's 6 part documentary on LGBT among Muslims, broadcast in the UK in January The Unity Productions Foundation (UPF) works for "Peace through the Media" by producing films "to break down stereotypes and enhance understanding" of Muslims and Islam. UPF films have been seen by approximated 150 million people. UPF has "partnered with prominent Jewish, Muslim, Christian and interfaith groups to run dialogues nationwide."[309]
-    The Muslim Debate Initiative (MDI) made up of Muslims "with experience in public speaking, apologetics, polemics, research and community work." One of its aims is "to support, encourage and promote debate that contrasts Islam against other intellectual and political discourses for the purpose of the pursuit of truth, intellectual scrutiny with respect, and the clarifying accurate understandings of other worldviews between people of different cultures, beliefs and political persuasions."[310] One of its broadcasts was on BBC3's "Free Speech" program on 25 March 2014. The debate was between Maajid Nawaz and Abdullah al Andalusi on the question "Can you be Gay and Muslim?" It is on YouTube at "Gay and Muslim?".[311]
-
-Terminology
-
-    Bacchá — Afghan slang term (lit. "boy play")
-    Hijra - South Asian transgender society.
-    Khanith - A term for Arab "effeminate" men.
-    Khawal - Egyptian cross-dressed male dancers.
-
-See also
-
-    Islam portal LGBT portal
-
-	Wikiquote has quotations related to: Homosexuality#Islam
-
-    Gender roles in Islam
-    Islam and gender segregation
-    Islam and masturbation
-    Islamic criminal jurisprudence
-    Islamic sexual jurisprudence
-    LGBT rights in Asia
-    LGBT in the Middle East
-    Modesty in Islam
-    Rape in Islamic law
-    Repentance in Islam
-    Zina
-    Raja Gemini
+1	History
+2	Design philosophy and features
+3	Syntax and semantics
+3.1	Indentation
+3.2	Statements and control flow
+3.3	Expressions
+3.4	Methods
+3.5	Typing
+3.6	Arithmetic operations
+4	Programming examples
+5	Libraries
+6	Development environments
+7	Implementations
+7.1	Reference implementation
+7.2	Other implementations
+7.3	Unsupported implementations
+7.4	Cross-compilers to other languages
+7.5	Performance
+8	Development
+9	API documentation generators
+10	Naming
+11	Popularity
+12	Uses
+13	Languages influenced by Python
+14	See also
+15	References
+15.1	Sources
+16	Further reading
+17	External links
+History
+
+The designer of Python, Guido van Rossum, at OSCON 2006
+Main article: History of Python
+Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his "permanent vacation" from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker.[41] In January 2019, active Python core developers elected a 5-member "Steering Council" to lead the project.[42] As of 2021, the current members of this council are Barry Warsaw, Brett Cannon, Carol Willing, Thomas Wouters, and Pablo Galindo Salgado.[43]
+
+Python 2.0 was released on 16 October 2000, with many major new features, including a cycle-detecting garbage collector and support for Unicode.[44]
+
+Python 3.0 was released on 3 December 2008. It was a major revision of the language that is not completely backward-compatible.[45] Many of its major features were backported to Python 2.6.x[46] and 2.7.x version series. Releases of Python 3 include the 2to3 utility, which automates (at least partially) the translation of Python 2 code to Python 3.[47]
+
+Python 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of existing code could not easily be forward-ported to Python 3.[48][49] No more security patches or other improvements will be released for it.[50][51] With Python 2's end-of-life, only Python 3.6.x[52] and later are supported.
+
+Python 3.9.2 and 3.8.8 were expedited[53] as all versions of Python (including 2.7[54]) had security issues, leading to possible remote code execution[55] and web cache poisoning.[56]
+
+Design philosophy and features
+Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including by metaprogramming[57] and metaobjects (magic methods)).[58] Many other paradigms are supported via extensions, including design by contract[59][60] and logic programming.[61]
+
+Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.[62] It also features dynamic name resolution (late binding), which binds method and variable names during program execution.
+
+Python's design offers some support for functional programming in the Lisp tradition. It has filter,mapandreduce functions; list comprehensions, dictionaries, sets, and generator expressions.[63] The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.[64]
+
+The language's core philosophy is summarized in the document The Zen of Python (PEP 20), which includes aphorisms such as:[65]
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Readability counts.
+Rather than having all of its functionality built into its core, Python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Van Rossum's vision of a small core language with a large standard library and easily extensible interpreter stemmed from his frustrations with ABC, which espoused the opposite approach.[38]
+
+Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl's "there is more than one way to do it" motto, Python embraces a "there should be one— and preferably only one —obvious way to do it" design philosophy.[65] Alex Martelli, a Fellow at the Python Software Foundation and Python book author, writes that "To describe something as 'clever' is not considered a compliment in the Python culture."[66]
+
+Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[67] When speed is important, a Python programmer can move time-critical functions to extension modules written in languages such as C, or use PyPy, a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.
+
+Python's developers aim to keep the language fun to use. This is reflected in its name—a tribute to the British comedy group Monty Python[68]—and in occasionally playful approaches to tutorials and reference materials, such as examples that refer to spam and eggs (a reference to a Monty Python sketch) instead of the standard foo and bar.[69][70]
+
+A common neologism in the Python community is pythonic, which can have a wide range of meanings related to program style. To say that code is pythonic is to say that it uses Python idioms well, that it is natural or shows fluency in the language, that it conforms with Python's minimalist philosophy and emphasis on readability. In contrast, code that is difficult to understand or reads like a rough transcription from another programming language is called unpythonic.[71][72]
+
+Users and admirers of Python, especially those considered knowledgeable or experienced, are often referred to as Pythonistas.[73][74]
+
+Syntax and semantics
+Main article: Python syntax and semantics
+Python is meant to be an easily readable language. Its formatting is visually uncluttered, and it often uses English keywords where other languages use punctuation. Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons after statements are allowed but are rarely, if ever, used. It has fewer syntactic exceptions and special cases than C or Pascal.[75]
+
+Indentation
+Main article: Python syntax and semantics § Indentation
+Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[76] Thus, the program's visual structure accurately represents the program's semantic structure.[77] This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces.[78]
+
+Statements and control flow
+Python's statements include (among others):
+
+The assignment statement, using a single equals sign =.
+The if statement, which conditionally executes a block of code, along with else and elif (a contraction of else-if).
+The for statement, which iterates over an iterable object, capturing each element to a local variable for use by the attached block.
+The while statement, which executes a block of code as long as its condition is true.
+The try statement, which allows exceptions raised in its attached code block to be caught and handled by except clauses; it also ensures that clean-up code in a finally block will always be run regardless of how the block exits.
+The raise statement, used to raise a specified exception or re-raise a caught exception.
+The class statement, which executes a block of code and attaches its local namespace to a class, for use in object-oriented programming.
+The def statement, which defines a function or method.
+The with statement, which encloses a code block within a context manager (for example, acquiring a lock before the block of code is run and releasing the lock afterwards, or opening a file and then closing it), allowing resource-acquisition-is-initialization (RAII)-like behavior and replaces a common try/finally idiom.[79]
+The break statement, exits from a loop.
+The continue statement, skips this iteration and continues with the next item.
+The del statement, removes a variable, which means the reference from the name to the value is deleted and trying to use that variable will cause an error. A deleted variable can be reassigned.
+The pass statement, which serves as a NOP. It is syntactically needed to create an empty code block.
+The assert statement, used during debugging to check for conditions that should apply.
+The yield statement, which returns a value from a generator function and yield is also an operator. This form is used to implement coroutines.
+The return statement, used to return a value from a function.
+The import statement, which is used to import modules whose functions or variables can be used in the current program.
+The assignment statement (=) operates by binding a name as a reference to a separate, dynamically-allocated object. Variables may be subsequently rebound at any time to any object. In Python, a variable name is a generic reference holder and does not have a fixed data type associated with it. However, at a given time, a variable will refer to some object, which will have a type. This is referred to as dynamic typing and is contrasted with statically-typed programming languages, where each variable may only contain values of a certain type.
+
+Python does not support tail call optimization or first-class continuations, and, according to Guido van Rossum, it never will.[80][81] However, better support for coroutine-like functionality is provided, by extending Python's generators.[82] Before 2.5, generators were lazy iterators; information was passed unidirectionally out of the generator. From Python 2.5, it is possible to pass information back into a generator function, and from Python 3.3, the information can be passed through multiple stack levels.[83]
+
+Expressions
+Some Python expressions are similar to those found in languages such as C and Java, while some are not:
+
+Addition, subtraction, and multiplication are the same, but the behavior of division differs. There are two types of divisions in Python. They are floor division (or integer division) // and floating-point/division.[84] Python also uses the ** operator for exponentiation.
+From Python 3.5, the new @ infix operator was introduced. It is intended to be used by libraries such as NumPy for matrix multiplication.[85][86]
+From Python 3.8, the syntax :=, called the 'walrus operator' was introduced. It assigns values to variables as part of a larger expression.[87]
+In Python, == compares by value, versus Java, which compares numerics by value[88] and objects by reference.[89] (Value comparisons in Java on objects can be performed with the equals() method.) Python's is operator may be used to compare object identities (comparison by reference). In Python, comparisons may be chained, for example a <= b <= c.
+Python uses the words and, or, not for its boolean operators rather than the symbolic &&, ||, ! used in Java and C.
+Python has a type of expression termed a list comprehension as well as a more general expression termed a generator expression.[63]
+Anonymous functions are implemented using lambda expressions; however, these are limited in that the body can only be one expression.
+Conditional expressions in Python are written as x if c else y[90] (different in order of operands from the c ? x : y operator common to many other languages).
+Python makes a distinction between lists and tuples. Lists are written as [1, 2, 3], are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples are written as (1, 2, 3), are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable. The + operator can be used to concatenate two tuples, which does not directly modify their contents, but rather produces a new tuple containing the elements of both provided tuples. Thus, given the variable t initially equal to (1, 2, 3), executing t = t + (4, 5) first evaluates t + (4, 5), which yields (1, 2, 3, 4, 5), which is then assigned back to t, thereby effectively "modifying the contents" of t, while conforming to the immutable nature of tuple objects. Parentheses are optional for tuples in unambiguous contexts.[91]
+Python features sequence unpacking wherein multiple expressions, each evaluating to anything that can be assigned to (a variable, a writable property, etc.), are associated in an identical manner to that forming tuple literals and, as a whole, are put on the left-hand side of the equal sign in an assignment statement. The statement expects an iterable object on the right-hand side of the equal sign that produces the same number of values as the provided writable expressions when iterated through and will iterate through it, assigning each of the produced values to the corresponding expression on the left.[92]
+Python has a "string format" operator %. This functions analogously to printf format strings in C, e.g. "spam=%s eggs=%d" % ("blah", 2) evaluates to "spam=blah eggs=2". In Python 3 and 2.6+, this was supplemented by the format() method of the str class, e.g. "spam={0} eggs={1}".format("blah", 2). Python 3.6 added "f-strings": blah = "blah"; eggs = 2; f'spam={blah} eggs={eggs}'.[93]
+Strings in Python can be concatenated, by "adding" them (same operator as for adding integers and floats). E.g. "spam" + "eggs" returns "spameggs". Even if your strings contain numbers, they are still added as strings rather than integers. E.g. "2" + "2" returns "22".
+Python has various kinds of string literals:
+Strings delimited by single or double quote marks. Unlike in Unix shells, Perl and Perl-influenced languages, single quote marks and double quote marks function identically. Both kinds of string use the backslash (\) as an escape character. String interpolation became available in Python 3.6 as "formatted string literals".[93]
+Triple-quoted strings, which begin and end with a series of three single or double quote marks. They may span multiple lines and function like here documents in shells, Perl and Ruby.
+Raw string varieties, denoted by prefixing the string literal with an r. Escape sequences are not interpreted; hence raw strings are useful where literal backslashes are common, such as regular expressions and Windows-style paths. Compare "@-quoting" in C#.
+Python has array index and array slicing expressions on lists, denoted as a[key], a[start:stop] or a[start:stop:step]. Indexes are zero-based, and negative indexes are relative to the end. Slices take elements from the start index up to, but not including, the stop index. The third slice parameter, called step or stride, allows elements to be skipped and reversed. Slice indexes may be omitted, for example a[:] returns a copy of the entire list. Each element of a slice is a shallow copy.
+In Python, a distinction between expressions and statements is rigidly enforced, in contrast to languages such as Common Lisp, Scheme, or Ruby. This leads to duplicating some functionality. For example:
+
+List comprehensions vs. for-loops
+Conditional expressions vs. if blocks
+The eval() vs. exec() built-in functions (in Python 2, exec is a statement); the former is for expressions, the latter is for statements.
+Statements cannot be a part of an expression, so list and other comprehensions or lambda expressions, all being expressions, cannot contain statements. A particular case of this is that an assignment statement such as a = 1 cannot form part of the conditional expression of a conditional statement. This has the advantage of avoiding a classic C error of mistaking an assignment operator = for an equality operator == in conditions: if (c = 1) { ... } is syntactically valid (but probably unintended) C code but if c = 1: ... causes a syntax error in Python.
+
+Methods
+Methods on objects are functions attached to the object's class; the syntax instance.method(argument) is, for normal methods and functions, syntactic sugar for Class.method(instance, argument). Python methods have an explicit self parameter to access instance data, in contrast to the implicit self (or this) in some other object-oriented programming languages (e.g., C++, Java, Objective-C, or Ruby).[94] Apart from this, Python also provides methods, often called dunder methods (due to their names beginning and ending with double-underscores), to allow user-defined classes to modify how they are handled by native operations such as length, comparison, in arithmetic operations, type conversion, and many more.[95]
+
+Typing
+
+The standard type hierarchy in Python 3
+Python uses duck typing and has typed objects but untyped variable names. Type constraints are not checked at compile time; rather, operations on an object may fail, signifying that the given object is not of a suitable type. Despite being dynamically-typed, Python is strongly-typed, forbidding operations that are not well-defined (for example, adding a number to a string) rather than silently attempting to make sense of them.
+
+Python allows programmers to define their own types using classes, which are most often used for object-oriented programming. New instances of classes are constructed by calling the class (for example, SpamClass() or EggsClass()), and the classes are instances of the metaclass type (itself an instance of itself), allowing metaprogramming and reflection.
+
+Before version 3.0, Python had two kinds of classes: old-style and new-style.[96] The syntax of both styles is the same, the difference being whether the class object is inherited from, directly or indirectly (all new-style classes inherit from object and are instances of type). In versions of Python 2 from Python 2.2 onwards, both kinds of classes can be used. Old-style classes were eliminated in Python 3.0.
+
+The long-term plan is to support gradual typing[97] and from Python 3.5, the syntax of the language allows specifying static types but they are not checked in the default implementation, CPython. An experimental optional static type checker named mypy supports compile-time type checking.[98]
+
+Summary of Python 3's built-in types
+Type	Mutability	Description	Syntax examples
+bool	immutable	Boolean value	True
+False
+bytearray	mutable	Sequence of bytes	bytearray(b'Some ASCII')
+bytearray(b"Some ASCII")
+bytearray([119, 105, 107, 105])
+bytes	immutable	Sequence of bytes	b'Some ASCII'
+b"Some ASCII"
+bytes([119, 105, 107, 105])
+complex	immutable	Complex number with real and imaginary parts	3+2.7j
+3 + 2.7j
+dict	mutable	Associative array (or dictionary) of key and value pairs; can contain mixed types (keys and values), keys must be a hashable type	{'key1': 1.0, 3: False}
+{}
+ellipsisa	immutable	An ellipsis placeholder to be used as an index in NumPy arrays	...
+Ellipsis
+float	immutable	Double-precision floating-point number. The precision is machine-dependent but in practice is generally implemented as a 64-bit IEEE 754 number with 53 bits of precision.[99]	
+1.414
+
+frozenset	immutable	Unordered set, contains no duplicates; can contain mixed types, if hashable	frozenset([4.0, 'string', True])
+int	immutable	Integer of unlimited magnitude[100]	42
+list	mutable	List, can contain mixed types	[4.0, 'string', True]
+[]
+NoneTypea	immutable	An object representing the absence of a value, often called null in other languages	None
+NotImplementedTypea	immutable	A placeholder that can be returned from overloaded operators to indicate unsupported operand types.	NotImplemented
+range	immutable	A Sequence of numbers commonly used for looping specific number of times in for loops[101]	range(1, 10)
+range(10, -5, -2)
+set	mutable	Unordered set, contains no duplicates; can contain mixed types, if hashable	{4.0, 'string', True}
+set()
+str	immutable	A character string: sequence of Unicode codepoints	'Wikipedia'
+"Wikipedia"
+"""Spanning
+multiple
+lines"""
+tuple	immutable	Can contain mixed types	(4.0, 'string', True)
+('single element',)
+()
+^a Not directly accessible by name
+
+Arithmetic operations
+Python has the usual symbols for arithmetic operators (+, -, *, /), the floor division operator // and the modulo operation % (where the remainder can be negative, e.g. 4 % -3 == -2). It also has ** for exponentiation, e.g. 5**3 == 125 and 9**0.5 == 3.0, and a matrix multiply operator @ .[102] These operators work like in traditional math; with the same precedence rules, the operators infix (+ and - can also be unary to represent positive and negative numbers respectively).
+
+The division between integers produces floating-point results. The behavior of division has changed significantly over time:[103]
+
+Current Python (i.e. since 3.0) changed / to always be floating-point division, e.g. 5/2 == 2.5.
+Python 2.2 changed integer division to round towards negative infinity, e.g. 7/3 == 2 and -7/3 == -3. The floor division // operator was introduced. So 7//3 == 2, -7//3 == -3, 7.5//3 == 2.0 and -7.5//3 == -3.0. Adding from __future__ import division causes a module to use Python 3.0 rules for division (see next).
+Python 2.1 and earlier used C's division behavior. The / operator is integer division if both operands are integers, and floating-point division otherwise. Integer division rounds towards 0, e.g. 7/3 == 2 and -7/3 == -2.
+In Python terms, / is true division (or simply division), and // is floor division. / before version 3.0 is classic division.[103]
+
+Rounding towards negative infinity, though different from most languages, adds consistency. For instance, it means that the equation (a + b)//b == a//b + 1 is always true. It also means that the equation b*(a//b) + a%b == a is valid for both positive and negative values of a. However, maintaining the validity of this equation means that while the result of a%b is, as expected, in the half-open interval [0, b), where b is a positive integer, it has to lie in the interval (b, 0] when b is negative.[104]
+
+Python provides a round function for rounding a float to the nearest integer. For tie-breaking, Python 3 uses round to even: round(1.5) and round(2.5) both produce 2.[105] Versions before 3 used round-away-from-zero: round(0.5) is 1.0, round(-0.5) is −1.0.[106]
+
+Python allows boolean expressions with multiple equality relations in a manner that is consistent with general use in mathematics. For example, the expression a < b < c tests whether a is less than b and b is less than c.[107] C-derived languages interpret this expression differently: in C, the expression would first evaluate a < b, resulting in 0 or 1, and that result would then be compared with c.[108]
+
+Python uses arbitrary-precision arithmetic for all integer operations. The Decimal type/class in the decimal module provides decimal floating-point numbers to a pre-defined arbitrary precision and several rounding modes.[109] The Fraction class in the fractions module provides arbitrary precision for rational numbers.[110]
+
+Due to Python's extensive mathematics library, and the third-party library NumPy that further extends the native capabilities, it is frequently used as a scientific scripting language to aid in problems such as numerical data processing and manipulation.[111][112]
+
+Programming examples
+Hello world program:
+
+print('Hello, world!')
+Program to calculate the factorial of a positive integer:
+
+n = int(input('Type a number, and its factorial will be printed: '))
+
+if n < 0:
+    raise ValueError('You must enter a non negative integer')
+
+factorial = 1
+for i in range(2, n + 1):
+    factorial *= i
+
+print(factorial)
+Libraries
+Python's large standard library, commonly cited as one of its greatest strengths,[113] provides tools suited to many tasks. For Internet-facing applications, many standard formats and protocols such as MIME and HTTP are supported. It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals,[114] manipulating regular expressions, and unit testing.
+
+Some parts of the standard library are covered by specifications (for example, the Web Server Gateway Interface (WSGI) implementation wsgiref follows PEP 333[115]), but most modules are not. They are specified by their code, internal documentation, and test suites. However, because most of the standard library is cross-platform Python code, only a few modules need altering or rewriting for variant implementations.
+
+As of March 2021, the Python Package Index (PyPI), the official repository for third-party Python software, contains over 290,000[116] packages with a wide range of functionality, including:
+
+Automation
+Data analytics
+Databases
+Documentation
+Graphical user interfaces
+Image processing
+Machine learning
+Mobile App
+Multimedia
+Computer networking
+Scientific computing
+System administration
+Test frameworks
+Text processing
+Web frameworks
+Web scraping
+Development environments
+See also: Comparison of integrated development environments § Python
+Most Python implementations (including CPython) include a read–eval–print loop (REPL), permitting them to function as a command line interpreter for which the user enters statements sequentially and receives results immediately.
+
+Other shells, including IDLE and IPython, add further abilities such as improved auto-completion, session state retention and syntax highlighting.
+
+As well as standard desktop integrated development environments, there are Web browser-based IDEs; SageMath (intended for developing science and math-related Python programs); PythonAnywhere, a browser-based IDE and hosting environment; and Canopy IDE, a commercial Python IDE emphasizing scientific computing.[117]
+
+Implementations
+See also: List of Python software § Python implementations
+Reference implementation
+CPython is the reference implementation of Python. It is written in C, meeting the C89 standard with several select C99 features (with later C versions out, it's considered outdated;[118][119] CPython includes its own C extensions, but third-party extensions are not limited to older C versions, can e.g. be implemented with C11 or C++[120]).[121] It compiles Python programs into an intermediate bytecode[122] which is then executed by its virtual machine.[123] CPython is distributed with a large standard library written in a mixture of C and native Python. It is available for many platforms, including Windows (starting with Python 3.9, the Python installer deliberately fails to install on Windows 7 and 8;[124][125] Windows XP was supported until Python 3.5) and most modern Unix-like systems, including macOS (and Apple M1 Macs, since Python 3.9.1, with experimental installer) and unofficial support for e.g. VMS.[126] Platform portability was one of its earliest priorities,[127] during the Python 1 and 2 time-frame, even OS/2 and Solaris were supported;[128] support has since been dropped for a lot of platforms.
+
+Other implementations
+PyPy is a fast, compliant interpreter of Python 2.7 and 3.6.[129] Its just-in-time compiler brings a significant speed improvement over CPython but several libraries written in C cannot be used with it.[130]
+Stackless Python is a significant fork of CPython that implements microthreads; it does not use the call stack in the same way, thus allowing massively concurrent programs. PyPy also has a stackless version.[131]
+MicroPython and CircuitPython are Python 3 variants optimized for microcontrollers, including Lego Mindstorms EV3.[132]
+Pyston is a variant of the Python runtime that uses just-in-time compilation to speed up the execution of Python programs.[133]
+Cinder is a performance-oriented fork of CPython 3.8 that contains a number of optimizations including bytecode inline caching, eager evaluation of coroutines, a method-at-a-time JIT and an experimental bytecode compiler.[134]
+Unsupported implementations
+Other just-in-time Python compilers have been developed, but are now unsupported:
+
+Google began a project named Unladen Swallow in 2009, with the aim of speeding up the Python interpreter fivefold by using the LLVM, and of improving its multithreading ability to scale to thousands of cores,[135] while ordinary implementations suffer from the global interpreter lock.
+Psyco is a discontinued just-in-time specializing compiler that integrates with CPython and transforms bytecode to machine code at runtime. The emitted code is specialized for certain data types and is faster than the standard Python code. Psyco does not support Python 2.7 or later.
+PyS60 was a Python 2 interpreter for Series 60 mobile phones released by Nokia in 2005. It implemented many of the modules from the standard library and some additional modules for integrating with the Symbian operating system. The Nokia N900 also supports Python with GTK widget libraries, enabling programs to be written and run on the target device.[136]
+Cross-compilers to other languages
+There are several compilers to high-level object languages, with either unrestricted Python, a restricted subset of Python, or a language similar to Python as the source language:
+
+Cython compiles (a superset of) Python 2.7 to C (while the resulting code is also usable with Python 3 and also e.g. C++).
+Nuitka compiles Python into C++.[137]
+Pythran compiles a subset of Python 3 to C++.[138][139][140]
+Pyrex (latest release in 2010) and Shed Skin (latest release in 2013) compile to C and C++ respectively.
+Google's Grumpy (latest release in 2017) transpiles Python 2 to Go.[141][142][143]
+IronPython (now abandoned by Microsoft) allows running Python 2.7 programs on the .NET Common Language Runtime.[144]
+Jython compiles Python 2.7 to Java bytecode, allowing the use of the Java libraries from a Python program.[145]
+MyHDL is a Python-based hardware description language (HDL), that converts MyHDL code to Verilog or VHDL code.
+Numba uses LLVM to compile a subset of Python to machine code.
+Brython,[146] Transcrypt[147][148] and Pyjs (latest release in 2012) compile Python to JavaScript.
+RPython can be compiled to C, and is used to build the PyPy interpreter of Python.
+Performance
+A performance comparison of various Python implementations on a non-numerical (combinatorial) workload was presented at EuroSciPy '13.[149] Python's performance compared to other programming languages is also benchmarked by The Computer Language Benchmarks Game.[150]
+
+Development
+Python's development is conducted largely through the Python Enhancement Proposal (PEP) process, the primary mechanism for proposing major new features, collecting community input on issues and documenting Python design decisions.[151] Python coding style is covered in PEP 8.[152] Outstanding PEPs are reviewed and commented on by the Python community and the steering council.[151]
+
+Enhancement of the language corresponds with development of the CPython reference implementation. The mailing list python-dev is the primary forum for the language's development. Specific issues are discussed in the Roundup bug tracker hosted at bugs.python.org.[153] Development originally took place on a self-hosted source-code repository running Mercurial, until Python moved to GitHub in January 2017.[154]
+
+CPython's public releases come in three types, distinguished by which part of the version number is incremented:
+
+Backward-incompatible versions, where code is expected to break and needs to be manually ported. The first part of the version number is incremented. These releases happen infrequently—version 3.0 was released 8 years after 2.0.
+Major or "feature" releases, occurred about every 18 months but with the adoption of a yearly release cadence starting with Python 3.9 are expected to happen once a year.[155][156] They are largely compatible but introduce new features. The second part of the version number is incremented. Each major version is supported by bugfixes for several years after its release.[157]
+Bugfix releases,[158] which introduce no new features, occur about every 3 months and are made when a sufficient number of bugs have been fixed upstream since the last release. Security vulnerabilities are also patched in these releases. The third and final part of the version number is incremented.[158]
+Many alpha, beta, and release-candidates are also released as previews and for testing before final releases. Although there is a rough schedule for each release, they are often delayed if the code is not ready. Python's development team monitors the state of the code by running the large unit test suite during development.[159]
+
+The major academic conference on Python is PyCon. There are also special Python mentoring programmes, such as Pyladies.
+
+Pythons 3.10 deprecates wstr (to be removed in Python 3.12; meaning Python extensions[160] need to be modified by then),[161] and also plans to add pattern matching to the language.[162]
+
+API documentation generators
+Tools that can generate documentation for Python API include pydoc (available as part of standard library), Sphinx, Pdoc and its forks, Doxygen and Graphviz, among others.[163]
+
+Naming
+Python's name is derived from the British comedy group Monty Python, whom Python creator Guido van Rossum enjoyed while developing the language. Monty Python references appear frequently in Python code and culture;[164] for example, the metasyntactic variables often used in Python literature are spam and eggs instead of the traditional foo and bar.[164][165] The official Python documentation also contains various references to Monty Python routines.[166][167]
+
+The prefix Py- is used to show that something is related to Python. Examples of the use of this prefix in names of Python applications or libraries include Pygame, a binding of SDL to Python (commonly used to create games); PyQt and PyGTK, which bind Qt and GTK to Python respectively; and PyPy, a Python implementation originally written in Python.
+
+Popularity
+Since 2003, Python has consistently ranked in the top ten most popular programming languages in the TIOBE Programming Community Index where, as of February 2021, it is the third most popular language (behind Java, and C).[168] It was selected Programming Language of the Year (for "the highest rise in ratings in a year") in 2007, 2010, 2018, and 2020 (the only language to do so four times[169]).[170]
+
+An empirical study found that scripting languages, such as Python, are more productive than conventional languages, such as C and Java, for programming problems involving string manipulation and search in a dictionary, and determined that memory consumption was often "better than Java and not much worse than C or C++".[171]
+
+Large organizations that use Python include Wikipedia, Google,[172] Yahoo!,[173] CERN,[174] NASA,[175] Facebook,[176] Amazon, Instagram,[177] Spotify[178] and some smaller entities like ILM[179] and ITA.[180] The social news networking site Reddit was written mostly in Python.[181]
+
+Uses
+Main article: List of Python software
+
+Python Powered
+Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.[182] With Web Server Gateway Interface, a standard API has evolved to facilitate these applications. Web frameworks like Django, Pylons, Pyramid, TurboGears, web2py, Tornado, Flask, Bottle and Zope support developers in the design and maintenance of complex applications. Pyjs and IronPython can be used to develop the client-side of Ajax-based applications. SQLAlchemy can be used as a data mapper to a relational database. Twisted is a framework to program communications between computers, and is used (for example) by Dropbox.
+
+Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing,[183][184] with specialized libraries such as Biopython and Astropy providing domain-specific functionality. SageMath is a computer algebra system with a notebook interface programmable in Python: its library covers many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.[185] OpenCV has Python bindings with a rich set of features for computer vision and image processing.[186]
+
+Python is commonly used in artificial intelligence projects and machine learning projects with the help of libraries like TensorFlow, Keras, Pytorch and Scikit-learn.[187][188][189][190] As a scripting language with modular architecture, simple syntax and rich text processing tools, Python is often used for natural language processing.[191]
+
+Python has been successfully embedded in many software products as a scripting language, including in finite element method software such as Abaqus, 3D parametric modeler like FreeCAD, 3D animation packages such as 3ds Max, Blender, Cinema 4D, Lightwave, Houdini, Maya, modo, MotionBuilder, Softimage, the visual effects compositor Nuke, 2D imaging programs like GIMP,[192] Inkscape, Scribus and Paint Shop Pro,[193] and musical notation programs like scorewriter and capella. GNU Debugger uses Python as a pretty printer to show complex structures such as C++ containers. Esri promotes Python as the best choice for writing scripts in ArcGIS.[194] It has also been used in several video games,[195][196] and has been adopted as first of the three available programming languages in Google App Engine, the other two being Java and Go.[197]
+
+Many operating systems include Python as a standard component. It ships with most Linux distributions,[198] AmigaOS 4 (using Python 2.7), FreeBSD (as a package), NetBSD, OpenBSD (as a package) and macOS and can be used from the command line (terminal). Many Linux distributions use installers written in Python: Ubuntu uses the Ubiquity installer, while Red Hat Linux and Fedora use the Anaconda installer. Gentoo Linux uses Python in its package management system, Portage.
+
+Python is used extensively in the information security industry, including in exploit development.[199][200]
+
+Most of the Sugar software for the One Laptop per Child XO, now developed at Sugar Labs, is written in Python.[201] The Raspberry Pi single-board computer project has adopted Python as its main user-programming language.
+
+LibreOffice includes Python, and intends to replace Java with Python. Its Python Scripting Provider is a core feature[202] since Version 4.0 from 7 February 2013.
+
+Languages influenced by Python
+Python's design and philosophy have influenced many other programming languages:
+
+Boo uses indentation, a similar syntax, and a similar object model.[203]
+Cobra uses indentation and a similar syntax, and its Acknowledgements document lists Python first among languages that influenced it.[204]
+CoffeeScript, a programming language that cross-compiles to JavaScript, has Python-inspired syntax.
+ECMAScript/JavaScript borrowed iterators and generators from Python.[205]
+GDScript, a scripting language very similar to Python, built-in to the Godot game engine.[206]
+Go is designed for the "speed of working in a dynamic language like Python"[207] and shares the same syntax for slicing arrays.
+Groovy was motivated by the desire to bring the Python design philosophy to Java.[208]
+Julia was designed to be "as usable for general programming as Python".[26]
+Nim uses indentation and similar syntax.[209]
+Ruby's creator, Yukihiro Matsumoto, has said: "I wanted a scripting language that was more powerful than Perl, and more object-oriented than Python. That's why I decided to design my own language."[210]
+Swift, a programming language developed by Apple, has some Python-inspired syntax.[211]
+Python's development practices have also been emulated by other languages. For example, the practice of requiring a document describing the rationale for, and issues surrounding, a change to the language (in Python, a PEP) is also used in Tcl,[212] Erlang,[213] and Swift.[214]
